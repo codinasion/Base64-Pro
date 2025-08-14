@@ -1,4 +1,10 @@
-import Base64EncoderDecoder from "./component";
+import Base64Converter from '@/components/Base64Converter'
+import Hero from '@/components/Hero'
+import Features from '@/components/Features'
+import UseCases from '@/components/UseCases'
+import Reviews from '@/components/Reviews'
+import CTA from '@/components/CTA'
+
 
 export const metadata = {
   title: "Base64 Pro - Free Online Base64 Converter Tool",
@@ -39,5 +45,20 @@ export const metadata = {
 };
 
 export default function Page() {
-  return <Base64EncoderDecoder />;
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-indigo-50 via-white to-cyan-50">
+      {/* Hero Section */}
+      <Hero />
+      {/* Converter Section */}
+      <Base64Converter />
+      {/* Features Section */}
+      <Features />
+      {/* Use Cases Section */}
+      <UseCases />
+      {/* Reviews Section */}
+      <Reviews />
+      {/* CTA Section */}
+      <CTA />  
+    </div>
+  )
 }
