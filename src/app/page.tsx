@@ -1,10 +1,9 @@
-import Base64Converter from '@/components/Base64Converter'
-import Hero from '@/components/Hero'
-import Features from '@/components/Features'
-import UseCases from '@/components/UseCases'
-import Reviews from '@/components/Reviews'
-import CTA from '@/components/CTA'
-
+import Base64Converter from "@/components/Base64Converter";
+import Hero from "@/components/Hero";
+import Features from "@/components/Features";
+import UseCases from "@/components/UseCases";
+import Reviews from "@/components/Reviews";
+import CTA from "@/components/CTA";
 
 export const metadata = {
   title: "Base64 Pro - Free Online Base64 Converter Tool",
@@ -58,7 +57,7 @@ export default function Page() {
       {/* Reviews Section */}
       <Reviews />
       {/* CTA Section */}
-      <CTA />  
+      <CTA />
     </div>
-  )
+  );
 }
