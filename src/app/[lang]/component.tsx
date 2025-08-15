@@ -26,6 +26,7 @@ export default function Base64EncoderDecoderComponent({
         setOutput(decoded);
       }
     } catch (err) {
+      console.log(err);
       setError("Invalid input for decoding. Please check your Base64 string.");
       setOutput("");
     }
@@ -37,6 +38,7 @@ export default function Base64EncoderDecoderComponent({
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
     } catch (err) {
+      console.log(err);
       console.error("Failed to copy text");
     }
   };

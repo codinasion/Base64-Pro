@@ -62,7 +62,9 @@ export default function Testimonials({ dict }: { dict: dictType }) {
                   />
                 ))}
               </div>
-              <p className="text-gray-600 mb-4 italic">"{testimonial.text}"</p>
+              <p className="text-gray-600 mb-4 italic">
+                &quot;{testimonial.text}&quot;
+              </p>
               <div className="border-t pt-4">
                 <div className="font-semibold text-gray-800">
                   {testimonial.name}

@@ -1,5 +1,5 @@
 import { dictType } from "@/dictionaries";
-import { Coffee, Heart } from "lucide-react";
+import { Coffee } from "lucide-react";
 import Link from "next/link";
 
 export default function BuyMeACoffee({ dict }: { dict: dictType }) {
