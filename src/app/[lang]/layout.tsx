@@ -34,7 +34,7 @@ export async function generateMetadata({
     authors: [{ name: dict.seo.codinasion, url: "https://www.codinasion.com" }],
     creator: dict.seo.codinasion,
     publisher: dict.seo.codinasion,
-    metadataBase: new URL("https://age-calc-pro.codinasion.com"),
+    metadataBase: new URL("https://base64-pro.codinasion.com"),
     openGraph: {
       type: "website",
       locale: "en_US",

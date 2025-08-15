@@ -11,6 +11,7 @@ import Testimonials from "./testimonials";
 import CTA from "./cta";
 import Sponsor from "./sponsor";
 import Footer from "./footer";
+import Comment from "./comment";
 
 export async function generateStaticParams() {
   return langListData.map((lang) => ({
@@ -29,6 +30,8 @@ export default async function Page({ params }: { params: Promise<langType> }) {
       <Hero />
 
       <Base64EncoderDecoderComponent />
+
+      <Comment />
 
       <BuyMeACoffee />
 
