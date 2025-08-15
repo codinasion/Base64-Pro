@@ -2,8 +2,13 @@
 
 import { useState } from "react";
 import { Copy, Check } from "lucide-react";
+import { dictType } from "@/dictionaries";
 
-export default function Base64EncoderDecoderComponent() {
+export default function Base64EncoderDecoderComponent({
+  dict,
+}: {
+  dict: dictType;
+}) {
   const [input, setInput] = useState("");
   const [output, setOutput] = useState("");
   const [mode, setMode] = useState("encode");
@@ -43,7 +48,7 @@ export default function Base64EncoderDecoderComponent() {
           <div className="bg-gradient-to-r from-blue-500 to-indigo-600 p-6">
             <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
               <h2 className="text-2xl font-bold text-white">
-                Base64 Converter
+                {dict.component.text_1}
               </h2>
               <div className="flex bg-white/20 rounded-lg p-1">
                 <button
@@ -54,7 +59,7 @@ export default function Base64EncoderDecoderComponent() {
                       : "text-white hover:bg-white/10"
                   }`}
                 >
-                  Encode
+                  {dict.component.text_2}
                 </button>
                 <button
                   onClick={() => setMode("decode")}
@@ -64,7 +69,7 @@ export default function Base64EncoderDecoderComponent() {
                       : "text-white hover:bg-white/10"
                   }`}
                 >
-                  Decode
+                  {dict.component.text_3}
                 </button>
               </div>
             </div>
@@ -74,15 +79,17 @@ export default function Base64EncoderDecoderComponent() {
             <div className="space-y-6">
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-2">
-                  {mode === "encode" ? "Text to Encode" : "Base64 to Decode"}
+                  {mode === "encode"
+                    ? dict.component.text_4
+                    : dict.component.text_5}
                 </label>
                 <textarea
                   value={input}
                   onChange={(e) => setInput(e.target.value)}
                   placeholder={
                     mode === "encode"
-                      ? "Enter your text here... 🌍 Supports all languages and emojis! 🎉"
-                      : "Paste your Base64 encoded string here..."
+                      ? `${dict.component.text_6} 🌍 ${dict.component.text_7} 🎉`
+                      : dict.component.text_8
                   }
                   className="w-full h-32 p-4 border-2 border-gray-200 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all resize-none text-sm"
                 />
@@ -93,7 +100,9 @@ export default function Base64EncoderDecoderComponent() {
                   onClick={handleProcess}
                   className="bg-gradient-to-r from-blue-500 to-indigo-600 text-white px-8 py-3 rounded-xl font-semibold hover:shadow-lg transform hover:scale-105 transition-all duration-200"
                 >
-                  {mode === "encode" ? "🔒 Encode" : "🔓 Decode"}
+                  {mode === "encode"
+                    ? `🔒 ${dict.component.text_2}`
+                    : `🔓 ${dict.component.text_3}`}
                 </button>
               </div>
 
@@ -101,8 +110,8 @@ export default function Base64EncoderDecoderComponent() {
                 <div className="flex items-center justify-between mb-2">
                   <label className="block text-sm font-medium text-gray-700">
                     {mode === "encode"
-                      ? "Base64 Encoded Result"
-                      : "Decoded Text"}
+                      ? dict.component.text_9
+                      : dict.component.text_10}
                   </label>
                   {output && (
                     <button
@@ -115,7 +124,9 @@ export default function Base64EncoderDecoderComponent() {
                         <Copy className="w-4 h-4" />
                       )}
                       <span className="text-sm">
-                        {copied ? "Copied!" : "Copy"}
+                        {copied
+                          ? dict.component.text_11
+                          : dict.component.text_12}
                       </span>
                     </button>
                   )}
@@ -123,7 +134,7 @@ export default function Base64EncoderDecoderComponent() {
                 <textarea
                   value={output}
                   readOnly
-                  placeholder="Your result will appear here..."
+                  placeholder={dict.component.text_13}
                   className="w-full h-32 p-4 bg-gray-50 border-2 border-gray-200 rounded-xl resize-none text-sm"
                 />
                 {error && (

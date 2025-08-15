@@ -1,28 +1,27 @@
+import { dictType } from "@/dictionaries";
 import { Shield, Globe, Zap, Users } from "lucide-react";
 
-export default function Features() {
+export default function Features({ dict }: { dict: dictType }) {
   const features = [
     {
       icon: <Shield className="w-6 h-6" />,
-      title: "100% Privacy",
-      description:
-        "All processing happens in your browser. Your data never leaves your device.",
+      title: dict.features.text_3,
+      description: dict.features.text_4,
     },
     {
       icon: <Globe className="w-6 h-6" />,
-      title: "Universal Support",
-      description:
-        "Perfect handling of UTF-8, emojis, and international characters.",
+      title: dict.features.text_5,
+      description: dict.features.text_6,
     },
     {
       icon: <Zap className="w-6 h-6" />,
-      title: "Lightning Fast",
-      description: "Instant encoding and decoding with real-time processing.",
+      title: dict.features.text_7,
+      description: dict.features.text_8,
     },
     {
       icon: <Users className="w-6 h-6" />,
-      title: "Developer Friendly",
-      description: "Clean interface designed by developers, for developers.",
+      title: dict.features.text_9,
+      description: dict.features.text_10,
     },
   ];
 
@@ -31,11 +30,10 @@ export default function Features() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent mb-6">
-            Why Developers Choose Us
+            {dict.features.text_1}
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Built with modern web standards and designed for global
-            accessibility
+            {dict.features.text_2}
           </p>
         </div>
 

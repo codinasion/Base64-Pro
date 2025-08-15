@@ -1,19 +1,19 @@
-export default function HistoricalContext() {
+import { dictType } from "@/dictionaries";
+
+export default function HistoricalContext({ dict }: { dict: dictType }) {
   return (
     <section className="py-20 bg-gradient-to-br from-gray-50 to-blue-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-gray-600 to-blue-600 bg-clip-text text-transparent mb-6">
-            The Story of Base64
+            {dict.historical_context.text_1}
           </h2>
         </div>
 
         <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12 border border-blue-100">
           <div className="prose prose-lg max-w-none">
             <p className="text-xl text-gray-700 leading-relaxed mb-6">
-              Base64 encoding was developed in the early days of the internet to
-              solve a fundamental problem: how to safely transmit binary data
-              over text-based protocols like email and HTTP.
+              {dict.historical_context.text_2}
             </p>
             <div className="grid md:grid-cols-3 gap-8 my-12">
               <div className="text-center">
@@ -21,10 +21,10 @@ export default function HistoricalContext() {
                   1987
                 </div>
                 <h4 className="font-semibold text-lg text-gray-800 mb-2">
-                  RFC 1421
+                  {dict.historical_context.text_3}
                 </h4>
                 <p className="text-gray-600">
-                  Base64 was first standardized for Privacy Enhanced Mail
+                  {dict.historical_context.text_4}
                 </p>
               </div>
               <div className="text-center">
@@ -32,10 +32,10 @@ export default function HistoricalContext() {
                   64
                 </div>
                 <h4 className="font-semibold text-lg text-gray-800 mb-2">
-                  Characters
+                  {dict.historical_context.text_5}
                 </h4>
                 <p className="text-gray-600">
-                  Uses 64 ASCII characters: A-Z, a-z, 0-9, +, /
+                  {dict.historical_context.text_6}: A-Z, a-z, 0-9, +, /
                 </p>
               </div>
               <div className="text-center">
@@ -43,18 +43,15 @@ export default function HistoricalContext() {
                   ∞
                 </div>
                 <h4 className="font-semibold text-lg text-gray-800 mb-2">
-                  Universal
+                  {dict.historical_context.text_7}
                 </h4>
                 <p className="text-gray-600">
-                  Now used everywhere from web APIs to data URLs
+                  {dict.historical_context.text_8}
                 </p>
               </div>
             </div>
             <p className="text-xl text-gray-700 leading-relaxed">
-              Today, Base64 is an essential part of modern web development,
-              enabling everything from JWT tokens to inline images. Our tool
-              continues this legacy by making Base64 accessible to developers
-              worldwide! 🌍
+              {dict.historical_context.text_9} 🌍
             </p>
           </div>
         </div>

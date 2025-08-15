@@ -1,33 +1,34 @@
+import { dictType } from "@/dictionaries";
 import { Star } from "lucide-react";
 
-export default function Testimonials() {
+export default function Testimonials({ dict }: { dict: dictType }) {
   const testimonials = [
     {
-      name: "Sarah Chen",
-      role: "Full Stack Developer",
-      country: "Singapore",
-      text: "This tool saved me hours of debugging. The interface is so clean and intuitive!",
+      name: dict.testimonials.text_3,
+      role: dict.testimonials.text_4,
+      country: dict.testimonials.text_5,
+      text: dict.testimonials.text_6,
       rating: 5,
     },
     {
-      name: "Ahmed Al-Rashid",
-      role: "DevOps Engineer",
-      country: "UAE",
-      text: "Perfect for API testing. Works flawlessly with international characters.",
+      name: dict.testimonials.text_7,
+      role: dict.testimonials.text_8,
+      country: dict.testimonials.text_9,
+      text: dict.testimonials.text_10,
       rating: 5,
     },
     {
-      name: "María González",
-      role: "Security Analyst",
-      country: "Mexico",
-      text: "Love the privacy-first approach. Everything happens in the browser!",
+      name: dict.testimonials.text_11,
+      role: dict.testimonials.text_12,
+      country: dict.testimonials.text_13,
+      text: dict.testimonials.text_14,
       rating: 5,
     },
     {
-      name: "Raj Patel",
-      role: "Data Scientist",
-      country: "India",
-      text: "Super fast and reliable. I use it daily for data preprocessing.",
+      name: dict.testimonials.text_15,
+      role: dict.testimonials.text_16,
+      country: dict.testimonials.text_17,
+      text: dict.testimonials.text_18,
       rating: 5,
     },
   ];
@@ -40,11 +41,10 @@ export default function Testimonials() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent mb-6">
-            Loved by Developers Worldwide
+            {dict.testimonials.text_1}
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Join thousands of satisfied developers from every corner of the
-            globe
+            {dict.testimonials.text_2}
           </p>
         </div>
 

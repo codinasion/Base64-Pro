@@ -1,9 +1,11 @@
-export default function FunFacts() {
+import { dictType } from "@/dictionaries";
+
+export default function FunFacts({ dict }: { dict: dictType }) {
   const funFacts = [
-    { number: "1000+", label: "Daily Users Worldwide" },
-    { number: "50+", label: "Countries Served" },
-    { number: "99.9%", label: "Uptime Reliability" },
-    { number: "0ms", label: "Data Processing Delay" },
+    { number: "1000+", label: dict.fun_facts.text_3 },
+    { number: "50+", label: dict.fun_facts.text_4 },
+    { number: "99.9%", label: dict.fun_facts.text_5 },
+    { number: "0ms", label: dict.fun_facts.text_6 },
   ];
 
   return (
@@ -11,10 +13,10 @@ export default function FunFacts() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-green-600 to-blue-600 bg-clip-text text-transparent mb-6">
-            By The Numbers
+            {dict.fun_facts.text_1}
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Trusted by developers across the globe
+            {dict.fun_facts.text_2}
           </p>
         </div>
 

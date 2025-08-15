@@ -1,11 +1,13 @@
-export default function UseCases() {
+import { dictType } from "@/dictionaries";
+
+export default function UseCases({ dict }: { dict: dictType }) {
   const useCases = [
-    "API Authentication & JWT Tokens",
-    "Data URLs & Image Embedding",
-    "Email Attachments & MIME",
-    "URL Safe Data Transmission",
-    "Configuration Files & Secrets",
-    "Binary Data Serialization",
+    dict.use_cases.text_3,
+    dict.use_cases.text_4,
+    dict.use_cases.text_5,
+    dict.use_cases.text_6,
+    dict.use_cases.text_7,
+    dict.use_cases.text_8,
   ];
 
   return (
@@ -13,10 +15,10 @@ export default function UseCases() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-6">
-            Perfect For Every Use Case
+            {dict.use_cases.text_1}
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            From simple data encoding to complex API integrations
+            {dict.use_cases.text_2}
           </p>
         </div>
 
