@@ -1,5 +1,6 @@
 import { dictType } from "@/dictionaries";
 import { Coffee, Heart } from "lucide-react";
+import Link from "next/link";
 
 export default function BuyMeACoffee({ dict }: { dict: dictType }) {
   return (
@@ -17,10 +18,15 @@ export default function BuyMeACoffee({ dict }: { dict: dictType }) {
             {dict.bmc.text_2} 🌍
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <button className="bg-gradient-to-r from-amber-500 to-orange-500 text-white px-8 py-3 rounded-xl font-semibold hover:shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center">
+            <Link
+              href="https://buymeacoffee.com/codinasion"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-gradient-to-r from-amber-500 to-orange-500 text-white px-8 py-3 rounded-xl font-semibold hover:shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center"
+            >
               <Coffee className="w-5 h-5 mr-2" />
               {dict.bmc.text_3} - $1
-            </button>
+            </Link>
           </div>
           <p className="text-sm text-gray-500 mt-4">
             💡 {dict.bmc.text_4}: {dict.bmc.text_5}

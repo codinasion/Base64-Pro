@@ -1,5 +1,6 @@
 import { dictType } from "@/dictionaries";
 import { Sparkles } from "lucide-react";
+import Link from "next/link";
 
 export default function Sponsor({ dict }: { dict: dictType }) {
   return (
@@ -28,10 +29,15 @@ export default function Sponsor({ dict }: { dict: dictType }) {
           <div className="text-center">
             <div className="text-4xl font-bold text-purple-600 mb-2">$100</div>
             <div className="text-gray-500 mb-6">{dict.sponsor.text_9}</div>
-            <button className="bg-gradient-to-r from-purple-500 to-pink-500 text-white px-8 py-3 rounded-xl font-semibold hover:shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center mx-auto">
+            <Link
+              href="https://buymeacoffee.com/codinasion/e/446755"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-gradient-to-r from-purple-500 to-pink-500 text-white px-8 py-3 rounded-xl font-semibold hover:shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center mx-auto"
+            >
               <Sparkles className="w-5 h-5 mr-2" />
               {dict.sponsor.text_10}
-            </button>
+            </Link>
           </div>
         </div>
       </div>
