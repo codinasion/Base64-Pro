@@ -20,11 +20,7 @@ export default function BuyMeACoffee() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <button className="bg-gradient-to-r from-amber-500 to-orange-500 text-white px-8 py-3 rounded-xl font-semibold hover:shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center">
               <Coffee className="w-5 h-5 mr-2" />
-              Buy Us a Coffee - $3
-            </button>
-            <button className="bg-gradient-to-r from-purple-500 to-pink-500 text-white px-8 py-3 rounded-xl font-semibold hover:shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center">
-              <Heart className="w-5 h-5 mr-2" />
-              Super Supporter - $10
+              Buy Us a Coffee - $1
             </button>
           </div>
           <p className="text-sm text-gray-500 mt-4">

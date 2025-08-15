@@ -1,10 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import {
-  Copy,
-  Check,
-} from "lucide-react";
+import { Copy, Check } from "lucide-react";
 
 export default function Base64EncoderDecoderComponent() {
   const [input, setInput] = useState("");
@@ -40,7 +37,7 @@ export default function Base64EncoderDecoderComponent() {
   };
 
   return (
-    <section className="pb-20">
+    <section className="pb-20" id="component">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="bg-white rounded-2xl shadow-2xl border border-blue-100 overflow-hidden">
           <div className="bg-gradient-to-r from-blue-500 to-indigo-600 p-6">

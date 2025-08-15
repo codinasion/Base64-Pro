@@ -1,15 +1,15 @@
 const langListData = [
-  "ar",
-  "az",
-  "bg",
-  "bn",
-  "ca",
-  "cs",
-  "da",
-  "de",
-  "el",
+  // "ar",
+  // "az",
+  // "bg",
+  // "bn",
+  // "ca",
+  // "cs",
+  // "da",
+  // "de",
+  // "el",
   "en",
-  "eo",
+  // "eo",
   // "es",
   // "et",
   // "eu",
@@ -52,8 +52,7 @@ const langListData = [
 export type Locale = (typeof langListData)[number];
 
 export const rtlLanguages: Locale[] = [
-  "ar",
-  // "fa", "he", "ur"
+  // "ar", "fa", "he", "ur"
 ];
 
 export { langListData };

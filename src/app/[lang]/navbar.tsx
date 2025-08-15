@@ -1,3 +1,5 @@
+"use client";
+
 export default function Navbar() {
   return (
     <nav className="bg-white/80 backdrop-blur-md border-b border-blue-100 sticky top-0 z-50">
@@ -24,12 +26,16 @@ export default function Navbar() {
             >
               Reviews
             </a>
-            <a
-              href="#support"
+            <button
+              onClick={() =>
+                document
+                  .querySelector("#component")
+                  ?.scrollIntoView({ behavior: "smooth" })
+              }
               className="bg-gradient-to-r from-blue-500 to-indigo-600 text-white px-4 py-2 rounded-lg hover:shadow-lg transition-all"
             >
-              Support Us
-            </a>
+              Get Started
+            </button>
           </div>
         </div>
       </div>

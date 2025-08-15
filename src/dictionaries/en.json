@@ -1,1 +1,10 @@
-{}
+{
+  "seo": {
+    "title": "Free Base64 Encoder Decoder Online Tool - UTF-8 Support | Base64 Pro",
+    "description": "Free Base64 encoder and decoder tool with UTF-8 support. Convert text to Base64 and decode Base64 strings instantly. Privacy-focused, works offline, supports international characters and emojis. Used by 10,000+ developers worldwide.",
+    "keywords": "base64 encoder, base64 decoder, base64 converter online, free base64 tool, utf-8 base64, base64 encode decode, online base64 converter, base64 string encoder, javascript base64, developer tools base64, secure base64 converter, international base64 encoder, emoji base64 support, jwt base64 decoder, api base64 tool",
+    "codinasion": "Codinasion",
+    "og_title": "Free Base64 Encoder Decoder - Privacy-First Developer Tool",
+    "og_description": "The world's most trusted Base64 tool. Fast, secure, and globally accessible. Supports UTF-8, emojis, and international characters. Used by 10,000+ developers worldwide. 100% free forever."
+  }
+}
