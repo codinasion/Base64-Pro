@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Free Base64 Encoder Decoder Online Tool - UTF-8 Support | Base64 Pro",
+    "description": "Free Base64 encoder and decoder tool with UTF-8 support. Convert text to Base64 and decode Base64 strings instantly. Privacy-focused, works offline, supports international characters and emojis. Used by 10,000+ developers worldwide.",
+    "keywords": "base64 encoder, base64 decoder, base64 converter online, free base64 tool, utf-8 base64, base64 encode decode, online base64 converter, base64 string encoder, javascript base64, developer tools base64, secure base64 converter, international base64 encoder, emoji base64 support, jwt base64 decoder, api base64 tool",
+    "codinasion": "Codinasion",
+    "og_title": "Free Base64 Encoder Decoder - Privacy-First Developer Tool",
+    "og_description": "The world's most trusted Base64 tool. Fast, secure, and globally accessible. Supports UTF-8, emojis, and international characters. Used by 10,000+ developers worldwide. 100% free forever."
+  },
+  "navbar": {
+    "text_1": "Base64 Pro",
+    "text_2": "Features",
+    "text_3": "Reviews",
+    "text_4": "Get Started"
+  },
+  "hero": {
+    "text_1": "Base64 Encoder & Decoder",
+    "text_2": "The world's most trusted Base64 tool. Fast, secure, and globally accessible.",
+    "text_3": "Used by 10,000+ developers worldwide.",
+    "text_4": "Global UTF-8 Support",
+    "text_5": "100% Private",
+    "text_6": "Instant Results"
+  },
+  "component": {
+    "text_1": "Base64 Converter",
+    "text_2": "Encode",
+    "text_3": "Decode",
+    "text_4": "Text to Encode",
+    "text_5": "Base64 to Decode",
+    "text_6": "Enter your text here",
+    "text_7": "Supports all languages and emojis!",
+    "text_8": "Paste your Base64 encoded string here",
+    "text_9": "Base64 Encoded Result",
+    "text_10": "Decoded Text",
+    "text_11": "Copied",
+    "text_12": "Copy",
+    "text_13": "Your result will appear here"
+  },
+  "bmc": {
+    "text_1": "Fuel Our Coding Sessions!",
+    "text_2": "This tool is completely free and always will be! If it saved you time and stress, consider buying us a coffee. Every cup helps us maintain and improve this tool for everyone!",
+    "text_3": "Buy Us a Coffee",
+    "text_4": "Fun fact",
+    "text_5": "It takes about 47 coffees to keep our servers running for a month!"
+  },
+  "features": {
+    "text_1": "Why Developers Choose Us",
+    "text_2": "Built with modern web standards and designed for global accessibility",
+    "text_3": "100% Privacy",
+    "text_4": "All processing happens in your browser. Your data never leaves your device.",
+    "text_5": "Universal Support",
+    "text_6": "Perfect handling of UTF-8, emojis, and international characters.",
+    "text_7": "Lightning Fast",
+    "text_8": "Instant encoding and decoding with real-time processing.",
+    "text_9": "Developer Friendly",
+    "text_10": "Clean interface designed by developers, for developers."
+  },
+  "use_cases": {
+    "text_1": "Perfect For Every Use Case",
+    "text_2": "From simple data encoding to complex API integrations",
+    "text_3": "API Authentication & JWT Tokens",
+    "text_4": "Data URLs & Image Embedding",
+    "text_5": "Email Attachments & MIME",
+    "text_6": "URL Safe Data Transmission",
+    "text_7": "Configuration Files & Secrets",
+    "text_8": "Binary Data Serialization"
+  },
+  "fun_facts": {
+    "text_1": "By The Numbers",
+    "text_2": "Trusted by developers across the globe",
+    "text_3": "Daily Users Worldwide",
+    "text_4": "Countries Served",
+    "text_5": "Uptime Reliability",
+    "text_6": "Data Processing Delay"
+  },
+  "historical_context": {
+    "text_1": "The Story of Base64",
+    "text_2": "Base64 encoding was developed in the early days of the internet to solve a fundamental problem: how to safely transmit binary data over text-based protocols like email and HTTP.",
+    "text_3": "RFC 1421",
+    "text_4": "Base64 was first standardized for Privacy Enhanced Mail",
+    "text_5": "Characters",
+    "text_6": "Uses 64 ASCII characters",
+    "text_7": "Universal",
+    "text_8": "Now used everywhere from web APIs to data URLs",
+    "text_9": "Today, Base64 is an essential part of modern web development, enabling everything from JWT tokens to inline images. Our tool continues this legacy by making Base64 accessible to developers worldwide!"
+  },
+  "testimonials": {
+    "text_1": "Loved by Developers Worldwide",
+    "text_2": "Join thousands of satisfied developers from every corner of the globe",
+    "text_3": "Sarah Chen",
+    "text_4": "Full Stack Developer",
+    "text_5": "Singapore",
+    "text_6": "This tool saved me hours of debugging. The interface is so clean and intuitive!",
+    "text_7": "Ahmed Al-Rashid",
+    "text_8": "DevOps Engineer",
+    "text_9": "UAE",
+    "text_10": "Perfect for API testing. Works flawlessly with international characters.",
+    "text_11": "María González",
+    "text_12": "Security Analyst",
+    "text_13": "Mexico",
+    "text_14": "Love the privacy-first approach. Everything happens in the browser!",
+    "text_15": "Raj Patel",
+    "text_16": "Data Scientist",
+    "text_17": "India",
+    "text_18": "Super fast and reliable. I use it daily for data preprocessing."
+  },
+  "cta": {
+    "text_1": "Ready to Encode & Decode?",
+    "text_2": "Join thousands of developers who trust our tool for their Base64 needs. Fast, secure, and always free!",
+    "text_3": "Start Converting Now"
+  },
+  "sponsor": {
+    "text_1": "Become Our Exclusive Sponsor!",
+    "text_2": "Get your company featured prominently on this tool forever! Perfect for developer tools, hosting services, or any business serving the developer community.",
+    "text_3": "What You Get",
+    "text_4": "Prominent logo placement on every page",
+    "text_5": "Direct link to your website",
+    "text_6": "Exposure to 1000+ daily users",
+    "text_7": "Exclusive sponsorship (only 1 spot available!)",
+    "text_8": "Global developer audience",
+    "text_9": "One-time payment, lifetime sponsorship",
+    "text_10": "Secure Your Spot Now"
+  }
+}

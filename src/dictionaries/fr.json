@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Outil de décoder en ligne Free Base64 - UTF-8 Support",
+    "description": "Encodeur et décodeur Free Base64 avec support UTF-8. Convertir le texte en base64 et décoder instantanément les chaînes Base64. Vie privée, fonctionne hors ligne, prend en charge les personnages internationaux et les émojis. Utilisé par 10 000 développeurs dans le monde entier.",
+    "keywords": "base64 encoder, base64 encoder, base64 en ligne, outil de base64 gratuit, base64 utf-864, base64 encoder, base64 encoder en ligne, base64 encoder en ligne, base64 encoder en ligne, base64 encoder en ligne",
+    "codinasion": "Codinasion",
+    "og_title": "Free Base64 Encoder Decoder - Outil de premier développeur de confidentialité",
+    "og_description": "L'outil Base64 le plus fiable au monde. Rapide, sécurisé et accessible au niveau mondial. Supporte les caractères UTF-8, émojis et internationaux. Utilisé par 10 000 développeurs dans le monde entier. 100% libre pour toujours."
+  },
+  "navbar": {
+    "text_1": "Base64 Pro",
+    "text_2": "Caractéristiques",
+    "text_3": "Examens",
+    "text_4": "Commencez"
+  },
+  "hero": {
+    "text_1": "Encodeur & Décoder Base64",
+    "text_2": "L'outil Base64 le plus fiable au monde. Rapide, sécurisé et accessible au niveau mondial.",
+    "text_3": "Utilisé par 10 000 développeurs dans le monde entier.",
+    "text_4": "Soutien mondial UTF-8",
+    "text_5": "100% Privé",
+    "text_6": "Résultats immédiats"
+  },
+  "component": {
+    "text_1": "Convertisseur de base64",
+    "text_2": "Encoder",
+    "text_3": "Décoder",
+    "text_4": "Texte à encoder",
+    "text_5": "Base64 à décoder",
+    "text_6": "Saisissez votre texte ici",
+    "text_7": "Prend en charge toutes les langues et emojis!",
+    "text_8": "Collez votre chaîne encodée Base64 ici",
+    "text_9": "Résultat encodé Base64",
+    "text_10": "Texte décodé",
+    "text_11": "Copies",
+    "text_12": "Copier",
+    "text_13": "Votre résultat apparaîtra ici"
+  },
+  "bmc": {
+    "text_1": "Nos séances de codage !",
+    "text_2": "Cet outil est totalement gratuit et sera toujours! Si ça vous a fait gagner du temps et du stress, envisagez de nous acheter un café. Chaque tasse nous aide à maintenir et à améliorer cet outil pour tout le monde!",
+    "text_3": "Achetez-nous un café",
+    "text_4": "Fait amusant",
+    "text_5": "Il faut environ 47 cafés pour que nos serveurs fonctionnent pendant un mois !"
+  },
+  "features": {
+    "text_1": "Pourquoi les développeurs nous choisissent",
+    "text_2": "Construit avec des normes Web modernes et conçu pour l'accessibilité mondiale",
+    "text_3": "Vie privée à 100 %",
+    "text_4": "Tout le traitement se fait dans votre navigateur. Vos données ne quittent jamais votre appareil.",
+    "text_5": "Soutien universel",
+    "text_6": "Gestion parfaite des personnages UTF-8, emojis et internationaux.",
+    "text_7": "Éclair rapide",
+    "text_8": "Encodage et décodage instantanés avec traitement en temps réel.",
+    "text_9": "Amabilité au développeur",
+    "text_10": "Interface propre conçue par les développeurs, pour les développeurs."
+  },
+  "use_cases": {
+    "text_1": "Parfait pour chaque cas d'utilisation",
+    "text_2": "De l'encodage simple des données aux intégrations complexes de l'API",
+    "text_3": "API Authentification & JWT Jetons",
+    "text_4": "URL de données & Embedding d'image",
+    "text_5": "Pièces jointes & MIME",
+    "text_6": "URL Transmission sûre des données",
+    "text_7": "Fichiers et secrets de configuration",
+    "text_8": "Sérialisation des données binaires"
+  },
+  "fun_facts": {
+    "text_1": "Par les chiffres",
+    "text_2": "Confié par les développeurs du monde entier",
+    "text_3": "Utilisateurs quotidiens dans le monde",
+    "text_4": "Pays desservis",
+    "text_5": "Fiabilité de mise à jour",
+    "text_6": "Délai de traitement des données"
+  },
+  "historical_context": {
+    "text_1": "L'histoire de la base64",
+    "text_2": "L'encodage Base64 a été développé dans les premiers jours de l'Internet pour résoudre un problème fondamental : comment transmettre en toute sécurité des données binaires sur des protocoles basés sur du texte comme l'email et HTTP.",
+    "text_3": "RFC 1421",
+    "text_4": "La base64 a d'abord été normalisée pour le courrier amélioré",
+    "text_5": "Personnages",
+    "text_6": "Utilise 64 caractères ASCII",
+    "text_7": "Universel",
+    "text_8": "Maintenant utilisé partout depuis les API web vers les URL de données",
+    "text_9": "Aujourd'hui, Base64 est un élément essentiel du développement moderne du web, permettant tout, des jetons JWT aux images en ligne. Notre outil poursuit cet héritage en rendant Base64 accessible aux développeurs du monde entier !"
+  },
+  "testimonials": {
+    "text_1": "Aimed by Developers Worldwide",
+    "text_2": "Rejoignez des milliers de développeurs satisfaits de tous les coins du monde",
+    "text_3": "Sarah Chen",
+    "text_4": "Développeur de pile complète",
+    "text_5": "Singapour",
+    "text_6": "Cet outil m'a sauvé des heures de débogage. L'interface est si propre et intuitive !",
+    "text_7": "Ahmed Al-Rashid",
+    "text_8": "Ingénieur DevOps",
+    "text_9": "EAU",
+    "text_10": "Parfait pour les tests d'API. Fonctionne parfaitement avec des personnages internationaux.",
+    "text_11": "María González",
+    "text_12": "Analyste de la sécurité",
+    "text_13": "Mexique",
+    "text_14": "Aimez la vie privée-première approche. Tout se passe dans le navigateur !",
+    "text_15": "Raj Patel",
+    "text_16": "Scientifique des données",
+    "text_17": "Inde",
+    "text_18": "Super rapide et fiable. Je l'utilise quotidiennement pour le prétraitement des données."
+  },
+  "cta": {
+    "text_1": "Prêt à coder et à décoder ?",
+    "text_2": "Rejoignez des milliers de développeurs qui font confiance à notre outil pour leurs besoins Base64. Rapide, sécurisé et toujours libre !",
+    "text_3": "Commencez à convertir maintenant"
+  },
+  "sponsor": {
+    "text_1": "Devenez notre commanditaire exclusif!",
+    "text_2": "Obtenez votre entreprise en vedette sur cet outil pour toujours! Parfait pour les outils de développement, les services d'hébergement ou toute entreprise servant la communauté de développeurs.",
+    "text_3": "Ce que vous obtenez",
+    "text_4": "Mise en place de logos sur chaque page",
+    "text_5": "Lien direct vers votre site Web",
+    "text_6": "Exposition à plus de 1000 utilisateurs quotidiens",
+    "text_7": "Commanditaire exclusif (un seul spot disponible !)",
+    "text_8": "Public de développeurs mondiaux",
+    "text_9": "Paiement unique, parrainage à vie",
+    "text_10": "Sécurisez votre emplacement maintenant"
+  }
+}

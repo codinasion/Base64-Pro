@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Gratis Base64 Encoder Decoder Online Tool - UTF-8 Støtte  jämt Base64 Pro",
+    "description": "Gratis Base64 koder og dekoder verktøy med UTF-8 støtte. Konverter tekst til Base64 og dekode Base64 strenger umiddelbart. Personvern fokusert, fungerer offline, støtter internasjonale tegn og emojis. Brukt av 10.000+ utviklere over hele verden.",
+    "keywords": "base64 koder, base64 dekoder, base64 konverter på nettet, gratis base64 verktøy, utf-8 base64, base64 kodedekoder dekoder, online base64 konverter, base64 streng koder, javascript base64, utviklerverktøy base64, sikker base64 konverter, internasjonal base64 koder, emoji base64 støtte, jwt base64 dekoder, api base64 verktøy",
+    "codinasion": "Codinasion",
+    "og_title": "Gratis Base64 Encoder Decoder Decoder - Privacy-First Decoder Tool",
+    "og_description": "Verdens mest pålitelige Base64 verktøy. Rask, sikker og globalt tilgjengelig. Støtter UTF-8, emojis og internasjonale tegn. Brukt av 10.000+ utviklere over hele verden. 100% fri for alltid."
+  },
+  "navbar": {
+    "text_1": "Base64 Pro",
+    "text_2": "Funksjoner",
+    "text_3": "Vurderinger",
+    "text_4": "Kom i gang"
+  },
+  "hero": {
+    "text_1": "Base64 Encoder & Decoder",
+    "text_2": "Verdens mest pålitelige Base64 verktøy. Rask, sikker og globalt tilgjengelig.",
+    "text_3": "Brukt av 10.000+ utviklere over hele verden.",
+    "text_4": "Global UTF-8-støtte",
+    "text_5": "100% privat",
+    "text_6": "Øyeblikkelige resultater"
+  },
+  "component": {
+    "text_1": "Base64 Converter",
+    "text_2": "Koding",
+    "text_3": "Decode",
+    "text_4": "Tekst til Koding",
+    "text_5": "Base64 til Decode",
+    "text_6": "Skriv inn din tekst her",
+    "text_7": "Støtter alle språk og emojis!",
+    "text_8": "Lim inn Base64-kodet streng her",
+    "text_9": "Base64 Kodet resultat",
+    "text_10": "Dekodet tekst",
+    "text_11": "Kopiert",
+    "text_12": "Kopier",
+    "text_13": "Resultatet ditt vil vises her"
+  },
+  "bmc": {
+    "text_1": "Brensel våre Coding Sessions!",
+    "text_2": "Dette verktøyet er helt gratis og vil alltid være! Hvis det sparte deg tid og stress, bør du vurdere å kjøpe oss en kaffe. Hver kopp hjelper oss å opprettholde og forbedre dette verktøyet for alle!",
+    "text_3": "Kjøp oss kaffe",
+    "text_4": "Fun fact",
+    "text_5": "Det tar ca 47 kaffe å holde serverne i gang i en måned!"
+  },
+  "features": {
+    "text_1": "Hvorfor utviklere velger oss",
+    "text_2": "Bygget med moderne webstandarder og designet for global tilgjengelighet",
+    "text_3": "100% personvern",
+    "text_4": "All behandling skjer i nettleseren din. Dataene dine forlater aldri enheten din.",
+    "text_5": "Universell støtte",
+    "text_6": "Perfekt håndtering av UTF-8, emojis og internasjonale tegn.",
+    "text_7": "Lyn Rask",
+    "text_8": "Øyeblikkelig koding og dekoding med sanntid behandling.",
+    "text_9": "Utviklervennlig",
+    "text_10": "Rent grensesnitt designet av utviklere, for utviklere."
+  },
+  "use_cases": {
+    "text_1": "Perfekt for alle brukssaker",
+    "text_2": "Fra enkel datakoding til komplekse API-integrasjoner",
+    "text_3": "API-autentisering og JWT Tokens",
+    "text_4": "Dataadresser og bildeinnbygging",
+    "text_5": "E-postvedlegg og MIME",
+    "text_6": "URL Sikker dataoverføring",
+    "text_7": "Konfigurasjonsfiler og hemmeligheter",
+    "text_8": "Binary Data Serialization"
+  },
+  "fun_facts": {
+    "text_1": "Etter tallene",
+    "text_2": "Stolt av utviklere over hele verden",
+    "text_3": "Daglige brukere over hele verden",
+    "text_4": "Land som betjenes",
+    "text_5": "Opptid pålitelighet",
+    "text_6": "Databehandlingsforsinkelse"
+  },
+  "historical_context": {
+    "text_1": "Historien om Base64",
+    "text_2": "Base64-koding ble utviklet i de tidlige dagene av Internett for å løse et grunnleggende problem: hvordan du trygt overfører binære data over tekstbaserte protokoller som e-post og HTTP.",
+    "text_3": "RFC 1421",
+    "text_4": "Base64 ble først standardisert for personvernforbedret e-post",
+    "text_5": "Tegn",
+    "text_6": "Bruker 64 ASCII tegn",
+    "text_7": "Universell",
+    "text_8": "Nå brukes overalt fra web-APIer til dataadresser",
+    "text_9": "I dag er Base64 en viktig del av moderne webutvikling, noe som gjør det mulig å gjøre alt fra JWT-tokens til inlinebilder. Vårt verktøy fortsetter denne arven ved å gjøre Base64 tilgjengelig for utviklere over hele verden!"
+  },
+  "testimonials": {
+    "text_1": "Elsket av utviklere over hele verden",
+    "text_2": "Bli med tusenvis av fornøyde utviklere fra hvert hjørne av verden",
+    "text_3": "Sarah Chen",
+    "text_4": "Full Stack Utvikler",
+    "text_5": "Singapore",
+    "text_6": "Dette verktøyet lagret meg timer med feilsøking. Grensesnittet er så rent og intuitivt!",
+    "text_7": "Ahmed Al-Rashid",
+    "text_8": "DevOps Engineer",
+    "text_9": "UAE",
+    "text_10": "Perfekt for API-testing. Fungerer feilfritt med internasjonale figurer.",
+    "text_11": "María González",
+    "text_12": "Sikkerhetsanalyse",
+    "text_13": "Mexico",
+    "text_14": "Elsker personvern-første tilnærming. Alt skjer i nettleseren!",
+    "text_15": "Raj Patel",
+    "text_16": "Dataforsker",
+    "text_17": "India",
+    "text_18": "Super rask og pålitelig. Jeg bruker det daglig til databehandling."
+  },
+  "cta": {
+    "text_1": "Klar til å kode og kode?",
+    "text_2": "Delta i tusenvis av utviklere som stoler på vårt verktøy for deres Base64 behov. Rask, trygg og alltid fri!",
+    "text_3": "Begynn å konvertere nå"
+  },
+  "sponsor": {
+    "text_1": "Bli vår eksklusive sponsor!",
+    "text_2": "Få din bedrift omtalt prominent på dette verktøyet for alltid! Perfekt for utviklerverktøy, hosting tjenester, eller enhver virksomhet som betjener utviklermiljøet.",
+    "text_3": "Hva du får",
+    "text_4": "Prominent logo plassering på hver side",
+    "text_5": "Direkte link til din nettside",
+    "text_6": "Eksponering for 1000+ daglige brukere",
+    "text_7": "Eksklusiv sponsing (kun 1 sted tilgjengelig!)",
+    "text_8": "Globalt publikum",
+    "text_9": "Engangsbetaling, livslang sponsing",
+    "text_10": "Sikre din flekk nå"
+  }
+}

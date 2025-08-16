@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Free Base64 Kodirnik Online orodje - UTF-8 Podpora ",
+    "description": "Free Base64 kodirnik in dekoder orodje z podporo UTF-8. Pretvori besedilo v bazo64 in dešifriraj strune. Zasebnost osredotočena, deluje offline, podpira mednarodne like in emojis. Uporablja jih 10.000+ razvijalcev po vsem svetu.",
+    "keywords": "Baza64 enkodirnik, baza64 dekodirnik, baza64 pretvornik online, prosta baza64 orodje, utf-8 baza64, baza64 enkode dekode, spletna baza64 pretvornik, base64 string enkodirnik, javascript baza64, razvijalec orodja baza64, varna baza64 pretvornik, mednarodna baza64 enkodirnik, emoji baza64 podpora, jwt base64 dekodirnik, api baza64 orodje",
+    "codinasion": "Kodinazija",
+    "og_title": "Brezplačna baza64 Dekoder kodirnik - Privacy-prvi razvijalec orodje",
+    "og_description": "Najzaupljivejša baza na svetu. Hiter, varen in globalno dostopen. Podpira UTF-8, emojis in mednarodne like. Uporablja jih 10.000+ razvijalcev po vsem svetu. 100% zastonj za vedno."
+  },
+  "navbar": {
+    "text_1": "Base64 Pro",
+    "text_2": "Značilnosti",
+    "text_3": "Pregledi",
+    "text_4": "Začni"
+  },
+  "hero": {
+    "text_1": "Base64 Kodirnik in dekodirnik",
+    "text_2": "Najzaupljivejša baza na svetu. Hiter, varen in globalno dostopen.",
+    "text_3": "Uporablja jih 10.000+ razvijalcev po vsem svetu.",
+    "text_4": "Globalna podpora UTF-8",
+    "text_5": "100% zasebno",
+    "text_6": "Takojšnji rezultati"
+  },
+  "component": {
+    "text_1": "Pretvornik Base64",
+    "text_2": "Koda",
+    "text_3": "Dešifriranje",
+    "text_4": "Besedilo za kodiranje",
+    "text_5": "Baza64 dešifriranju",
+    "text_6": "Sem vnesite besedilo",
+    "text_7": "Podpira vse jezike in emojis!",
+    "text_8": "Prilepi vaš niz Baza64 kodiran tukaj",
+    "text_9": "Base64 kodiran rezultat",
+    "text_10": "Dekodirano besedilo",
+    "text_11": "Kopirano",
+    "text_12": "Kopiraj",
+    "text_13": "Vaš rezultat se bo pojavil tukaj."
+  },
+  "bmc": {
+    "text_1": "Opozorite seje!",
+    "text_2": "To orodje je popolnoma brezplačno in vedno bo! Če vam je prihranilo čas in stres, nam raje plačajte kavo. Vsak kozarec nam pomaga ohraniti in izboljšati to orodje za vsakogar!",
+    "text_3": "Kupi nam kavo.",
+    "text_4": "Zanimivo dejstvo",
+    "text_5": "Trajalo je okoli 47 kav, da so naši strežniki ves mesec v teku!"
+  },
+  "features": {
+    "text_1": "Zakaj nas izberejo razvijalci",
+    "text_2": "Zgrajena s sodobnimi spletnimi standardi in zasnovana za globalno dostopnost",
+    "text_3": "100% Zasebnost",
+    "text_4": "Vsa obdelava se zgodi v vašem brskalniku. Tvoji podatki nikoli ne zapustijo naprave.",
+    "text_5": "Splošna podpora",
+    "text_6": "Popolno ravnanje z UTF-8, emojis in mednarodnimi liki.",
+    "text_7": "Strela, hitro.",
+    "text_8": "Instant kodiranje in dekodiranje z obdelavo v realnem času.",
+    "text_9": "Razvijalec je prijazen",
+    "text_10": "Čist vmesnik, ki ga oblikovalci, za razvijalce."
+  },
+  "use_cases": {
+    "text_1": "Idealen za vsako uporabo",
+    "text_2": "Od preprostega kodiranja podatkov do kompleksnih integracij API",
+    "text_3": "API overovitev in JWT Žetoni",
+    "text_4": "Vstavljanje podatkovnih URL- jev in slike",
+    "text_5": "Email priloge & MIME",
+    "text_6": "URL Varen prenos podatkov",
+    "text_7": "Nastavitvene datoteke in skrivnosti",
+    "text_8": "Seštevanje binarnih podatkov"
+  },
+  "fun_facts": {
+    "text_1": "Po številkah",
+    "text_2": "Zaupanje razvijalcev po vsem svetu",
+    "text_3": "Dnevni uporabniki po vsem svetu",
+    "text_4": "Države, ki služijo",
+    "text_5": "Zanesljivost na času razpoložljivosti",
+    "text_6": "Zamuda pri obdelavi podatkov"
+  },
+  "historical_context": {
+    "text_1": "Zgodba o bazi64",
+    "text_2": "Kodiranje Base64 je bilo razvito v zgodnjih dneh interneta za rešitev temeljnega problema: kako varno prenesti binarne podatke preko besedilnih protokolov, kot sta e-pošta in HTTP.",
+    "text_3": "RFC 1421",
+    "text_4": "Baza64 je bila prvič standardizirana za Privacy Okrepljeno pošto",
+    "text_5": "Znaki",
+    "text_6": "Uporablja 64 znakov ASCII",
+    "text_7": "Univerzalno",
+    "text_8": "Zdaj se uporablja povsod od spletnih API-jev do podatkovnih URL-jev",
+    "text_9": "Danes je Base64 bistven del sodobnega razvoja spleta, ki omogoča vse od žetonov JWT do notranjih slik. Naše orodje nadaljuje to zapuščino tako, da je Base64 dostopna razvijalcem po vsem svetu!"
+  },
+  "testimonials": {
+    "text_1": "Ljubezen razvijalcev po vsem svetu",
+    "text_2": "Pridružite se tisočim zadovoljnim razvijalcem iz vseh koncev sveta",
+    "text_3": "Sarah Chen",
+    "text_4": "Razvijalec celotnega sklada",
+    "text_5": "Singapur",
+    "text_6": "To orodje mi je prihranilo ure razhroščevanja. Vmesnik je tako čist in intuitiven!",
+    "text_7": "Ahmed Al-Rashid",
+    "text_8": "Inženir DevOps",
+    "text_9": "ZAE",
+    "text_10": "Idealno za API testiranje. Brezhibno deluje z mednarodnimi liki.",
+    "text_11": "María González",
+    "text_12": "Varnostni analitik",
+    "text_13": "Mehika",
+    "text_14": "Všeč mi je prvi pristop k zasebnosti. Vse se zgodi v brskalniku!",
+    "text_15": "Raj Patel",
+    "text_16": "Znanstvenik podatkov",
+    "text_17": "Indija",
+    "text_18": "Zelo hitro in zanesljivo. Vsak dan ga uporabljam za obdelavo podatkov."
+  },
+  "cta": {
+    "text_1": "Pripravljen za kodiranje in dekodiranje?",
+    "text_2": "Pridružite se tisočim razvijalcem, ki zaupajo našemu orodju za svoje potrebe baze64. Hitro, varno in vedno svobodno!",
+    "text_3": "Začni pretvarjanje zdaj"
+  },
+  "sponsor": {
+    "text_1": "Postanite naš ekskluzivni sponzor!",
+    "text_2": "Get vaše podjetje vidno na to orodje za vedno! Idealen za razvijalska orodja, storitve gostovanja ali katero koli podjetje, ki služi skupnosti razvijalcev.",
+    "text_3": "Kaj dobiš",
+    "text_4": "Pomembna umestitev logotipa na vsaki strani",
+    "text_5": "Neposredna povezava na vašo spletno stran",
+    "text_6": "Izpostavljenost 1000+ dnevnim uporabnikom",
+    "text_7": "Ekskluzivno sponzorstvo (na voljo je samo 1 mesto!)",
+    "text_8": "Globalno občinstvo razvijalcev",
+    "text_9": "Enkratno plačilo, sponzorstvo do konca življenja",
+    "text_10": "Zavaruj točko zdaj"
+  }
+}

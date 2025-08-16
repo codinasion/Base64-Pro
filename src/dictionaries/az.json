@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Pulsuz Base64 Encoder Decoder Online Tool - UTF-8 Support / Base64 Proqram",
+    "description": "UTF-8 dəstəyi ilə Free Base64 encoder və decoder alət. Base64 və decode Base64 səfərlərini anında çevirmək. Privacy-based, offline işləyir, beynəlxalq simvol və emojis dəstəkləyir. Dünyada 10,000+ developers tərəfindən istifadə olunur.",
+    "keywords": "baza64 encoder, baza64 decoder, baza64 çevirici online, pulsuz baza64 alət, utf-8 baza64, baza64 encode decode, online baza64 çeviricisi, baza64 string encoder, javascript baza64, geliştirici alətləri baza64, təhlükəsiz baza64 çeviricisi, beynəlxalq baza64 encoder, emoji baza64 dəstək, jwt baza64 decoder, api baza64 alət",
+    "codinasion": "Codinasion",
+    "og_title": "Pulsuz Base64 Encoder Decoder - Privacy-First Developer Tool",
+    "og_description": "Dünyanın ən etibarlı Base64 aracı. Yüksək, təhlükəsiz və beynəlxalq erişilebilir. UTF-8, emojis və beynəlxalq simvol. Dünyada 10,000+ developers tərəfindən istifadə olunur. 100% sonsuz."
+  },
+  "navbar": {
+    "text_1": "Base64 Proqram",
+    "text_2": "Xüsusi",
+    "text_3": " Reviews",
+    "text_4": "Başlamaq"
+  },
+  "hero": {
+    "text_1": "Base64 Encoder & Decoder",
+    "text_2": "Dünyanın ən etibarlı Base64 aracı. Yüksək, təhlükəsiz və beynəlxalq erişilebilir.",
+    "text_3": "Dünyada 10,000+ developers tərəfindən istifadə olunur.",
+    "text_4": "Global UTF-8 Support",
+    "text_5": "100% Xüsusi",
+    "text_6": "Axtarış"
+  },
+  "component": {
+    "text_1": "Base64 Converter",
+    "text_2": "Qeydiyyat",
+    "text_3": " De",
+    "text_4": "Encode",
+    "text_5": "Dekod üçün Base64",
+    "text_6": "E-poçt ünvanı",
+    "text_7": "Bütün dillər və emojis dəstək!",
+    "text_8": "Sizin Base64 kodlaşdırılmış string burada",
+    "text_9": "Base64 Encoded Son",
+    "text_10": "Dekod Text",
+    "text_11": "Elan",
+    "text_12": "Elan",
+    "text_13": "Sizin nəticə burada görünür"
+  },
+  "bmc": {
+    "text_1": "Bizim koding Sessions!",
+    "text_2": "Bu alət tamamilə pulsuz və hər zaman olacaq! Siz vaxt və stress qeyd etdiyiniz zaman, bizə bir şəhər almaq düşünün. Hər bir fincan bizə hər kəs üçün bu alətin qaldırılması və inkişaf edir!",
+    "text_3": "Axtarış",
+    "text_4": " Fun",
+    "text_5": "Bu, bir ay üçün çalışan serverlərin saxlamaq üçün 47 çay alır!"
+  },
+  "features": {
+    "text_1": "Niyə Developers Bizi seç",
+    "text_2": "Müasir web standartlarına uyğunlaşdırmaq və beynəlxalq erişilebilirlik üçün dizayn edilmişdir",
+    "text_3": "Qeydiyyat",
+    "text_4": "Bütün emal sizin browser olur. Sizin məlumat sizin cihaz tapmaq.",
+    "text_5": "Universal Support",
+    "text_6": "UTF-8, emojis və beynəlxalq simptomlar mübarizə.",
+    "text_7": "Oxunub",
+    "text_8": "Real-time emal ilə Instant encoding və decoding.",
+    "text_9": "Oyuncaq",
+    "text_10": "Geliştiricilər tərəfindən hazırlanmış Clean interfeys, developers üçün."
+  },
+  "use_cases": {
+    "text_1": "Haqqımızda",
+    "text_2": "sadə data kompleks API inteqrasiyaları encoding",
+    "text_3": "API Authentication & JWT Qeydiyyat",
+    "text_4": " Data s s s",
+    "text_5": "E-poçt ünvanı",
+    "text_6": " URL Qeydiyyat",
+    "text_7": "Konfiqurasiya faylları və Sırları",
+    "text_8": "İkili Data seriyasiyası"
+  },
+  "fun_facts": {
+    "text_1": "Saytın sayı",
+    "text_2": "Dünyadakı geliştiricilər tərəfindən əməkdaşlıq",
+    "text_3": "Gündən istifadəçilər",
+    "text_4": "Azərbaycan Respublikası",
+    "text_5": "Uptime Reliability",
+    "text_6": "Data Processing gecikmə"
+  },
+  "historical_context": {
+    "text_1": "Ümumi 64",
+    "text_2": " Base . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "text_3": " RFC 1421",
+    "text_4": "Base64 ilk standartlaşdırılmış Mail",
+    "text_5": "Axtarış",
+    "text_6": "64 ASCII simvolları",
+    "text_7": "Ümumi",
+    "text_8": "İndi web APIs haqqında data URLs istifadə",
+    "text_9": "Bu gün, Base64 müasir web inkişafının əsas hissəsidir, JWT heç bir şeylərin inline images. Bizim alət bu miras davam etdirir Ətraflı Ətraflı texnologiyalar dünya səhifəsiz!"
+  },
+  "testimonials": {
+    "text_1": "Developers Worldwide",
+    "text_2": "Dünyanın hər köşedən böyük keyfiyyətli developers qoşulmaq",
+    "text_3": "Elan",
+    "text_4": "Tam Stack Developer",
+    "text_5": "Bakı",
+    "text_6": "Bu alət mərkəz saatlarını qeyd edir. interfeys belə təmiz və asanlıqdır!",
+    "text_7": "Bakı Al-Rashid",
+    "text_8": "DevOps",
+    "text_9": "Elan",
+    "text_10": "API test üçün ideal. beynəlxalq simvolla işləyir.",
+    "text_11": "María",
+    "text_12": "Təhlükəsizlik Analisti",
+    "text_13": "Meksika",
+    "text_14": "Gizlilik ilk yanaşma sevir. browserda hər şey olur!",
+    "text_15": "Qalereya",
+    "text_16": "Elanlar",
+    "text_17": "Hindistan",
+    "text_18": "Super sürətli və etibarlı. Data preprocessing üçün gündə istifadə edin."
+  },
+  "cta": {
+    "text_1": "Encode & Decode üçün hazırlıq?",
+    "text_2": "Onların Base64 ehtiyacları üçün alətimizə qəbul olan binlerce geliştirici qoşun. Fast, təhlükəsiz və hər zaman pulsuz!",
+    "text_3": "E-poçt ünvanı"
+  },
+  "sponsor": {
+    "text_1": "Bizim Exclusive Sponsor ol!",
+    "text_2": "Sizin şirkətiniz bu vasitə bu vasitə mövcuddur! Geliştirici alətləri, hosting xidmətləri və ya geliştirici ictimai xidmətləri üçün ideal.",
+    "text_3": "Axtar",
+    "text_4": "hər səhifənin prominent logo yerləşdirilməsi",
+    "text_5": "Sizin saytına birbaşa link",
+    "text_6": "1000 + günlük istifadəçilərin qurulması",
+    "text_7": "Xüsusi sponsorluq (yalnız 1 spot mövcud!)",
+    "text_8": "Global geliştirici",
+    "text_9": "Bir vaxt ödəniş, ömür boyu sponsor",
+    "text_10": "Daxil ol"
+  }
+}

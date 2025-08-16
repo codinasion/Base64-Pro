@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Free Base64 Encoder Decoder Online Kasangkapan - UTF-8 Supportić Base64 Pro",
+    "description": "Malayang Base64 regulator at decoder tool na may suportang UTF-8. Agad na binasa ang tekstong Base64 at decode Base64. Ang Privacy-focused, work offline, ay sumusuporta sa mga internasyonal na character at emojis. Ginagamit ng 10,000+ developer sa buong mundo.",
+    "keywords": "base64 regulator, base64 decoder, base64 converter online, libreng base64 na kasangkapan, utf-8 base64, base64 regulator decode, online base64 converter, base64 string regulator, juvascript base64, developer tool base64, matatag base64 converter, internasyonal base64 regulator, emoji base64 support, jwt base64, api64.",
+    "codinasion": "Pag - aayos",
+    "og_title": "Malayang Base64 Encoder Decoder - Pribadong-Unang Kagamitan sa Pagpapaunlad",
+    "og_description": "Ang pinaka-pinagkakatiwalaang kasangkapan ng Base64 sa mundo. Mabilis, tiwasay, at madaling marating sa buong daigdig. Suportahan ang UTF-8, emojis, at mga internasyonal na karakter. Ginagamit ng 10,000+ developer sa buong mundo. 100% malaya magpakailanman."
+  },
+  "navbar": {
+    "text_1": "Base64 Pro",
+    "text_2": "Mga Katangian",
+    "text_3": "Mga Repaso",
+    "text_4": "Magsimula"
+  },
+  "hero": {
+    "text_1": "Base64 Encoder & Decoder",
+    "text_2": "Ang pinaka-pinagkakatiwalaang kasangkapan ng Base64 sa mundo. Mabilis, tiwasay, at madaling marating sa buong daigdig.",
+    "text_3": "Ginagamit ng 10,000+ developer sa buong mundo.",
+    "text_4": "Pangglobong UTF-8 Suporta",
+    "text_5": "100% Pribado",
+    "text_6": "Biglaang mga Resulta"
+  },
+  "component": {
+    "text_1": "Base64 na Tagapagkumberte",
+    "text_2": "Encode",
+    "text_3": "Decode",
+    "text_4": "Tekstong Dapat I - Encode",
+    "text_5": "Base64 to Decode",
+    "text_6": "Ipasok dito ang iyong teksto",
+    "text_7": "Suportahan ang lahat ng wika at emojis!",
+    "text_8": "Paste ang inyong Base64 na naka-install na string dito",
+    "text_9": "Inilarawan na Resulta",
+    "text_10": "Maling Teksto",
+    "text_11": "Pinagkunan",
+    "text_12": "Kopya",
+    "text_13": "Ang iyong resulta ay lilitaw rito"
+  },
+  "bmc": {
+    "text_1": "Palakasin ang Aming Pag - aayos!",
+    "text_2": "Ang kasangkapang ito ay lubusang malaya at laging magiging gayon! Kung nakatitipid ka ng panahon at kaigtingan, isaalang - alang ang pagbili sa amin ng kape. Bawat tasa ay tumutulong sa atin na mapanatili at mapasulong ang kasangkapang ito para sa lahat!",
+    "text_3": "Bumili Tayo ng Kape",
+    "text_4": "Masayang katotohanan",
+    "text_5": "Nangangailangan ng halos 47 kape upang panatilihing tumatakbo ang ating mga server sa loob ng isang buwan!"
+  },
+  "features": {
+    "text_1": "Kung Bakit Tayo Pinipili ng mga Maunlad",
+    "text_2": "Itinayo na may modernong mga pamantayan ng web at dinisenyo para sa pangglobong kakayahan",
+    "text_3": "100% Pribadong Buhay",
+    "text_4": "Lahat ng pagpoproseso ay nangyayari sa iyong browser. Ang iyong data ay hindi kailanman umaalis sa iyong aparato.",
+    "text_5": "Pansansinukob na Suporta",
+    "text_6": "Sakdal na paghawak ng UTF-8, emojis, at mga internasyonal na karakter.",
+    "text_7": "Mabilis ang Kidlat",
+    "text_8": "Instansiyanteng ekwasyon at decoding na may real-time processing.",
+    "text_9": "Maging Palakaibigan",
+    "text_10": "Malinis na interface na dinisenyo ng mga developer, para sa mga developer."
+  },
+  "use_cases": {
+    "text_1": "Sakdal sa Lahat ng Gamit ng Kaso",
+    "text_2": "Mula sa simpleng pag - uugnay ng datos tungo sa masalimuot na mga pagsasama - sama ng API",
+    "text_3": "API Registation & JWT Mga Kulik",
+    "text_4": "Talaan ng mga Nilalaman",
+    "text_5": "Email Attailments & MIME",
+    "text_6": "URL Ligtas na Transportasyon ng Data",
+    "text_7": "Mga Larawan at Lihim",
+    "text_8": "Seryalisasyon ng Binaryong Data"
+  },
+  "fun_facts": {
+    "text_1": "Sa Bilang",
+    "text_2": "Pinagtiwalaan ng mga developer sa buong globo",
+    "text_3": "Araw - Araw na mga Gumagamit sa Buong Daigdig",
+    "text_4": "Naglilingkod ang mga Bansa",
+    "text_5": "Pagiging Nasa Oras",
+    "text_6": "Pagproseso ng Data"
+  },
+  "historical_context": {
+    "text_1": "Ang Kuwento ng Base64",
+    "text_2": "Base64 na pag-iisyu ay binuo sa mga unang araw ng internet upang lutasin ang isang pundamental na problema: kung paano ligtas na makapaghahatid ng binary data sa mga text-based protocol tulad ng email at HTTP.",
+    "text_3": "RFC 1421",
+    "text_4": "Si Base64 ay unang ginawang pamantayan para sa Pribadong Enhanced Mail",
+    "text_5": "Mga Katangian",
+    "text_6": "Ginagamit ang 64 na karakter ng ASCII",
+    "text_7": "Pansansinukob",
+    "text_8": "Ngayon ay ginagamit sa lahat ng dako mula sa web APIs hanggang sa datos ng mga URL",
+    "text_9": "Sa ngayon, ang Base64 ay isang mahalagang bahagi ng modernong web development, na nagpapangyari sa lahat ng bagay mula sa JWT na maging inline image. Ipinagpatuloy ng aming kasangkapan ang pamanang ito sa pamamagitan ng paggawa sa Base64 na madaling makuha ng mga nagpapaunlad sa buong daigdig!"
+  },
+  "testimonials": {
+    "text_1": "Minamahal ng mga Nagpapaunlad sa Buong Daigdig",
+    "text_2": "Makisama sa libu - libong nasisiyahang mga developer mula sa bawat sulok ng globo",
+    "text_3": "Sarah Chen",
+    "text_4": "Buong Sock Producer",
+    "text_5": "Singapore",
+    "text_6": "Ang kasangkapang ito ang nagligtas sa akin ng mga oras ng pag - aalis ng aking galit. Ang pagitan ay napakalinis at ang intuwisyon!",
+    "text_7": "Ahmed Al-Rashid",
+    "text_8": "Devops Engineer",
+    "text_9": "UAE",
+    "text_10": "Sakdal para sa pagsubok sa API. Gumagana nang walang kapintasan sa internasyonal na mga tauhan.",
+    "text_11": "María González",
+    "text_12": "Seguridad Analyst",
+    "text_13": "Mexico",
+    "text_14": "Mahalin ang privacy-first approach. Lahat ay nangyayari sa browser!",
+    "text_15": "Raj Patel",
+    "text_16": "Siyentipiko ng mga Data",
+    "text_17": "India",
+    "text_18": "Mabilis at maaasahan. Ginagamit ko ito araw - araw para sa pagproseso ng datos."
+  },
+  "cta": {
+    "text_1": "Handa Na ba sa Encode & Decode?",
+    "text_2": "Makisama sa libu - libong kalinangan na nagtitiwala sa ating kagamitan para sa kanilang mga pangangailangan sa Base64. Mabilis, tiwasay, at laging malaya!",
+    "text_3": "Magsimulang Makumberte Ngayon"
+  },
+  "sponsor": {
+    "text_1": "Maging Mapandayang Tagapagtaguyod Natin!",
+    "text_2": "Makisama ka nang husto sa kasangkapang ito magpakailanman! Mahusay para sa mga kasangkapang pang-unlad, serbisyong pang-komedya, o anumang negosyong naglilingkod sa pamayanang pang-kalinangan.",
+    "text_3": "Kung Ano ang Makukuha Mo",
+    "text_4": "Prominenteng pamamahagi ng logo sa bawat pahina",
+    "text_5": "I - link ang iyong website",
+    "text_6": "Pagkalantad sa 1000+ mga gumagamit araw - araw",
+    "text_7": "Ang saganang pagtaguyod ( 1 lamang ang makukuhang lugar!)",
+    "text_8": "Mga manonood sa buong daigdig",
+    "text_9": "Paminsan - minsang pagbabayad, habang - buhay na pagtaguyod",
+    "text_10": "Ingatan ang Iyong Batik Ngayon"
+  }
+}

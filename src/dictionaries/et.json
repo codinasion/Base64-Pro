@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Free Base64 Encoder Decoder Online Tool - UTF-8 tugi | Base64 Pro",
+    "description": "Vaba baas64 kodeerija ja dekodeerimisvahend UTF-8 toega. Teisendage tekst Base64-ks ja dekodeerige Base64 stringid koheselt. Privaatsuskeskne, töötab offline, toetab rahvusvahelisi tegelasi ja emotikone. Seda kasutab üle 10 000 arendaja kogu maailmas.",
+    "keywords": "base64 kodeerija, base64 dekooder, base64 konverter online, vaba base64 tööriist, utf-8 base64, base64 encode decode, online base64 konverter, base64 string kodeerija, javascript base64, arendaja tööriistad base64, turvaline base64 konverter, rahvusvaheline base64 kodeerija, emoji base64 tugi, jwt base64 dekooder, api base64 tööriist",
+    "codinasion": "Kodinatsiooni",
+    "og_title": "Vaba baas64 kodeerija dekooder - privaatsuse esimene arendaja tööriist",
+    "og_description": "Maailma kõige usaldusväärsem Base64 tööriist. Kiire, turvaline ja ülemaailmselt kättesaadav. Toetab UTF-8, emojisid ja rahvusvahelisi tegelasi. Seda kasutab üle 10 000 arendaja kogu maailmas. 100% tasuta igavesti."
+  },
+  "navbar": {
+    "text_1": "Base64 Pro",
+    "text_2": "Omadused",
+    "text_3": "Arvustused",
+    "text_4": "Alusta"
+  },
+  "hero": {
+    "text_1": "Baas64 Kodeerija ja dekooder",
+    "text_2": "Maailma kõige usaldusväärsem Base64 tööriist. Kiire, turvaline ja ülemaailmselt kättesaadav.",
+    "text_3": "Seda kasutab üle 10 000 arendaja kogu maailmas.",
+    "text_4": "Globaalne UTF-8 toetus",
+    "text_5": "100% privaat",
+    "text_6": "Kohesed tulemused"
+  },
+  "component": {
+    "text_1": "Baas64 teisendaja",
+    "text_2": "kodeerida",
+    "text_3": "Dekodeerida",
+    "text_4": "Kodeerimiseks vajalik tekst",
+    "text_5": "Baas64 dekodeerimiseks",
+    "text_6": "Kirjuta siia tekst",
+    "text_7": "Toetab kõiki keeli ja emotikone!",
+    "text_8": "Aseta baas64 kodeeritud string siia",
+    "text_9": "Alus64 kodeeritud tulemus",
+    "text_10": "Dekodeeritud tekst",
+    "text_11": "Kopeerisin",
+    "text_12": "Kopeeri",
+    "text_13": "Sinu tulemus ilmub siin"
+  },
+  "bmc": {
+    "text_1": "Küta meie kodeerimisseansse!",
+    "text_2": "See tööriist on täiesti tasuta ja jääb alati! Kui see säästab aega ja stressi, kaaluge kohvi ostmist. Iga tass aitab meil seda tööriista säilitada ja täiustada kõigi jaoks!",
+    "text_3": "Osta meile kohvi",
+    "text_4": "Lõbus fakt",
+    "text_5": "See võtab umbes 47 kohvi hoida meie serverid töötab kuu aega!"
+  },
+  "features": {
+    "text_1": "Miks arendajad meid valivad",
+    "text_2": "Ehitatud kaasaegsete veebistandarditega ja mõeldud ülemaailmseks ligipääsetavuseks",
+    "text_3": "100% privaatsus",
+    "text_4": "Kogu töötlemine toimub teie brauseris. Teie andmed ei lahku kunagi teie seadmest.",
+    "text_5": "Üldine toetus",
+    "text_6": "Täiuslik UTF-8, emotikonide ja rahvusvaheliste tegelaste käsitlemine.",
+    "text_7": "Välkkiire",
+    "text_8": "Kiire kodeerimine ja dekodeerimine reaalajas töötlemisega.",
+    "text_9": "Arendajasõbralik",
+    "text_10": "Puhas liides, mille arendajad on välja töötanud."
+  },
+  "use_cases": {
+    "text_1": "Ideaalne iga kasutusjuhtumi jaoks",
+    "text_2": "Lihtsast andmete kodeerimisest kuni keerukate API integratsioonideni",
+    "text_3": "API autentimine ja JWT Tokens",
+    "text_4": "Andme URL- i & pildi põimimine",
+    "text_5": "E- posti manused ja MIME",
+    "text_6": "URL Ohutu andmeedastus",
+    "text_7": "Seadistuste failid ja saladused",
+    "text_8": "Binaarsete andmete jadastamine"
+  },
+  "fun_facts": {
+    "text_1": "Arvude järgi",
+    "text_2": "Usaldusväärne arendajate poolt kogu maailmas",
+    "text_3": "Igapäevased kasutajad üle maailma",
+    "text_4": "Riigid, kus teenindati",
+    "text_5": "Töökindlus töörežiimis",
+    "text_6": "Andmete töötlemise viivitus"
+  },
+  "historical_context": {
+    "text_1": "Base64 lugu",
+    "text_2": "Base64 kodeerimine töötati välja interneti algusaegadel, et lahendada põhiprobleem: kuidas turvaliselt edastada binaarseid andmeid tekstipõhiste protokollide nagu e-posti ja HTTP kaudu.",
+    "text_3": "RFC 1421",
+    "text_4": "Base64 standarditi esmakordselt privaatsuse täiustatud posti jaoks",
+    "text_5": "Tegelased",
+    "text_6": "Kasutatakse 64 ASCII märki",
+    "text_7": "Universal",
+    "text_8": "Nüüd kasutatakse kõikjal alates veebi API-dest kuni andme URL-ideni",
+    "text_9": "Tänapäeval on Base64 kaasaegse veebiarenduse oluline osa, mis võimaldab kõike alates JWT-märkidest kuni inline-piltideni. Meie tööriist jätkab seda pärandit, muutes Base64 kättesaadavaks arendajatele kogu maailmas!"
+  },
+  "testimonials": {
+    "text_1": "Armastatud arendajate poolt üle maailma",
+    "text_2": "Liituge tuhandete rahulolevate arendajatega igast maailma nurgast",
+    "text_3": "Sarah Chen",
+    "text_4": "Täiskorstna arendaja",
+    "text_5": "Singapuri",
+    "text_6": "See tööriist päästis mulle tundide viisi silumist. Liides on nii puhas ja intuitiivne!",
+    "text_7": "Ahmed Al-Rashid",
+    "text_8": "DevOpsi insener",
+    "text_9": "AÜE",
+    "text_10": "Ideaalne API testimiseks. Töötab veatult rahvusvaheliste tegelastega.",
+    "text_11": "María González",
+    "text_12": "Julgeolekuanalüütik",
+    "text_13": "Mehhiko",
+    "text_14": "Mulle meeldib privaatsuse esimene lähenemine. Kõik toimub brauseris!",
+    "text_15": "Raj Patel",
+    "text_16": "Andmeteadlane",
+    "text_17": "India",
+    "text_18": "Ülikiire ja usaldusväärne. Kasutan seda iga päev andmete eeltöötluseks."
+  },
+  "cta": {
+    "text_1": "Valmis kodeerima & dekodeerima?",
+    "text_2": "Liitu tuhandete arendajatega, kes usaldavad meie tööriista oma Base64 vajadustele. Kiire, turvaline ja alati tasuta!",
+    "text_3": "Alusta kohe teisendamist"
+  },
+  "sponsor": {
+    "text_1": "Hakka meie eksklusiivseks sponsoriks!",
+    "text_2": "Hankige oma ettevõte silmapaistvalt sellel tööriistal igavesti! Ideaalne arendaja tööriistadele, hostimisteenustele või mis tahes arendaja kogukonda teenindavale ettevõttele.",
+    "text_3": "Mida sa saad",
+    "text_4": "Silmapaistev logo paigutus igal lehel",
+    "text_5": "Otsene link teie veebisaidile",
+    "text_6": "Kokkupuude 1000+ päevase kasutajaga",
+    "text_7": "Eksklusiivne sponsorlus (ainult 1 koht saadaval!)",
+    "text_8": "Globaalne arendajate publik",
+    "text_9": "Ühekordne makse, eluaegne sponsorlus",
+    "text_10": "Kindlusta oma koht kohe"
+  }
+}

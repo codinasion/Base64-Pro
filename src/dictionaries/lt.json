@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "nemokamai Base64 Encoder dekoder Online Tool - UTF-8 Support ® 124; Base64 Pro",
+    "description": "Free Base64 Encoder ir dekoderio įrankis su UTF- 8 parama. Konvertuoti tekstą į Base64 ir iššifruoti Base64 eilutes iš karto. Dėmesio centre, veikia atsijungęs, palaiko tarptautinius personažus ir emocijas. Naudota 10000 + kūrėjai visame pasaulyje.",
+    "keywords": "base64 encoder, base64 dekoderis, base64 konverteris internete, nemokamai Base64 įrankis, utf-8 base64, base64 kodavimo dekode, online base64 konverteris, base64 styginio encoder, javascript base64, kūrėjų įrankių base64, saugus base64 konverteris, tarptautinis base64 encoder, emoji base64 parama, jwt base64 dekoder, api base64 įrankis",
+    "codinasion": "Kojinis",
+    "og_title": "Free Base64 Encoder dekoder - Pirmasis programuotojas įrankis",
+    "og_description": "Patikimiausias pasaulyje base64 įrankis. greitas, saugus ir prieinamas visame pasaulyje. UTF-8, emocijos, ir tarptautinių simbolių palaikymas. Naudota 10000 + kūrėjai visame pasaulyje. 100% nemokamai amžinai."
+  },
+  "navbar": {
+    "text_1": "Bate64 Pro",
+    "text_2": "Savybės",
+    "text_3": "Atsiliepimai",
+    "text_4": "@ info: whatsthis"
+  },
+  "hero": {
+    "text_1": "Bate64 Encoder & Decoder",
+    "text_2": "Patikimiausias pasaulyje base64 įrankis. greitas, saugus ir prieinamas visame pasaulyje.",
+    "text_3": "Naudota 10000 + kūrėjai visame pasaulyje.",
+    "text_4": "Pasaulinė UTF- 8 palaikymas",
+    "text_5": "100% privatus",
+    "text_6": "Momentiniai rezultatai"
+  },
+  "component": {
+    "text_1": "Base64 Converter",
+    "text_2": "Encode",
+    "text_3": "Dekodas",
+    "text_4": "Tekstas kodui",
+    "text_5": "Comment",
+    "text_6": "Čia įrašykite savo tekstą",
+    "text_7": "Rėmimas visomis kalbomis ir emocijomis!",
+    "text_8": "Čia sudėti savo Base64 koduotę",
+    "text_9": "Bate64 koduotas rezultatas",
+    "text_10": "Name",
+    "text_11": "Kopijuota",
+    "text_12": "Kopijuoti",
+    "text_13": "Jūsų rezultatas bus rodomas čia"
+  },
+  "bmc": {
+    "text_1": "Degalai mūsų kodavimo sesijų!",
+    "text_2": "Šis įrankis yra visiškai nemokama ir visada bus! Jus išgelbėjus laiko ir streso, pagalvokite pirkti mums kavos. Kiekvienas puodelis padeda mums išlaikyti ir pagerinti šį įrankį visiems!",
+    "text_3": "Nusipirk mums kavos",
+    "text_4": "Faktas",
+    "text_5": "Man reikia 47 kavos, kad mūsų serveriai veiktų mėnesį!"
+  },
+  "features": {
+    "text_1": "Kodėl programuotojai renkasi mus",
+    "text_2": "Sukurtas su modernia interneto standartų ir skirtas pasaulio prieinamumo",
+    "text_3": "100% Privatumas",
+    "text_4": "Viskas vyksta jūsų naršyklėje. Jūsų duomenys niekada nepalieka jūsų įrenginį.",
+    "text_5": "Universali parama",
+    "text_6": "Puikus valdymas UTF- 8, emocijos, ir tarptautinių simbolių.",
+    "text_7": "Žaibas greitas",
+    "text_8": "Momentinis kodavimas ir dekodavimo su realiu laiko apdorojimo.",
+    "text_9": "Programuotojas draugiškas",
+    "text_10": "Švari sąsaja, sukurta kūrėjų, kūrėjams."
+  },
+  "use_cases": {
+    "text_1": "Idealus kiekvienam naudojimo atvejui",
+    "text_2": "For simple data coding to complex API integrations",
+    "text_3": "API autentiškumo nustatymas ir JWT Tokinai",
+    "text_4": "NAME OF TRANSLATORS",
+    "text_5": "E. pašto priedai ir MIME",
+    "text_6": "URL Saugus duomenų perdavimas",
+    "text_7": "Konfigūracijos failai ir paslaptys",
+    "text_8": "Dvejų duomenų sklaida"
+  },
+  "fun_facts": {
+    "text_1": "Skaičiais",
+    "text_2": "Patikima kūrėjų visame pasaulyje",
+    "text_3": "Kasdien vartotojai visame pasaulyje",
+    "text_4": "Tarnaujančios šalys",
+    "text_5": "Ilgaamžiškumas patikimumas",
+    "text_6": "Vėlavimas apdoroti duomenis"
+  },
+  "historical_context": {
+    "text_1": "Bate64 istorija",
+    "text_2": "Base64 kodavimas buvo sukurta ankstyvosiose interneto dienų, siekiant išspręsti pagrindinę problemą: kaip saugiai perduoti dvejetainius duomenis per tekstinius protokolus, pavyzdžiui, el. paštą ir HTTP.",
+    "text_3": "RFC 1421",
+    "text_4": "Base64 buvo pirmą kartą standartizuotas privatumo sustiprintas Mail",
+    "text_5": "Šablonai",
+    "text_6": "Naudokite 64 ASCII simbolius",
+    "text_7": "Universalus",
+    "text_8": "Dabar naudojamas visur nuo interneto API duomenų URL",
+    "text_9": "Šiandien, Base64 yra esminė modernios interneto plėtros dalis, leidžianti viską nuo JWT žetonų iki inline vaizdus. Mūsų priemonė tęsia šį palikimą, padarydama Base64 prieinamą kūrėjams visame pasaulyje!"
+  },
+  "testimonials": {
+    "text_1": "Mylimas kūrėjų visame pasaulyje",
+    "text_2": "Prisijungti tūkstančiai patenkinti kūrėjai iš kiekvieno pasaulio kampo",
+    "text_3": "Sara Čen",
+    "text_4": "Name",
+    "text_5": "Singapūras",
+    "text_6": "# This tools saved me hours of dering # sąsaja yra tokia švari ir intuityvi!",
+    "text_7": "Ahmed Al- Rashid",
+    "text_8": "DevOps inžinierius",
+    "text_9": "JAE",
+    "text_10": "Idealus API testui. Nesąžiningai dirba su tarptautinių simbolių.",
+    "text_11": "María González",
+    "text_12": "Saugumo analitikas",
+    "text_13": "Meksika",
+    "text_14": "Myli pirmąjį požiūrį. Viskas vyksta naršyklėje!",
+    "text_15": "Rj PetelName",
+    "text_16": "Name",
+    "text_17": "Indija",
+    "text_18": "Labai greitai ir patikimai. Aš naudoju jį kasdien duomenų parengiamojo apdorojimo."
+  },
+  "cta": {
+    "text_1": "Pasiruošę koduoti & koduoti?",
+    "text_2": "Prisijunkite prie tūkstančių kūrėjų, kurie pasitiki mūsų įrankis savo Base64 poreikius. Greitai, saugiai, ir visada nemokamai!",
+    "text_3": "@ info: status"
+  },
+  "sponsor": {
+    "text_1": "Tapk mūsų išskirtiniu rėmėju!",
+    "text_2": "Gauk savo įmonę pristatome aiškiai šiame įrankiu amžinai! Idealiai tinka kūrėjų įrankiai, prieglobos paslaugos, ar bet kuris verslas, aptarnaujantis kūrėjų bendruomenės.",
+    "text_3": "Ką gausi",
+    "text_4": "Žymus logotipo išdėstymas kiekviename puslapyje",
+    "text_5": "Tiesioginė nuoroda į Jūsų svetainę",
+    "text_6": "1000 + dienos vartotojų poveikis",
+    "text_7": "Išskirtinis rėmimas (tik 1 vietoje galima!)",
+    "text_8": "Pasaulinė kūrėjų auditorija",
+    "text_9": "Savalaikis mokėjimas, rėmimas visą gyvenimą",
+    "text_10": "Saugokite savo Spot dabar"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Free Base64 Encoder Decodor Online - UTF-8 Suport ",
+    "description": "Codor gratuit Base64 și instrument de decodor cu suport UTF-8. Convertește textul la Base64 și decodează imediat șirurile Base64. Privacy-focused, lucrări offline, suportă caractere internaționale și emojis. Utilizat de 10.000 + dezvoltatori din întreaga lume.",
+    "keywords": "codor de bază64, decodor de bază64, convertor de bază64 on-line, instrument de bază 64 gratuit, utf-8 bază64, bază64 cod decodare, convertor online de bază64, bază64 encodor de coarde, javascript bază64, instrument developer baza64, convertor de bază64 securizat, encodor internațional64, suport Emoji bază64, jwt bază64 decodor, api bază64 instrument",
+    "codinasion": "Codinazia",
+    "og_title": "Decodor de codor gratuit 64 - Decodor de confidențialitate-Primul instrument de dezvoltare",
+    "og_description": "Cel mai de încredere instrument Base64 din lume. Rapid, sigur şi accesibil la nivel global. Sprijină UTF-8, emojis, și caractere internaționale. Utilizat de 10.000 + dezvoltatori din întreaga lume. 100% gratuit pentru totdeauna."
+  },
+  "navbar": {
+    "text_1": "Base64 Pro",
+    "text_2": "Caracteristici",
+    "text_3": "Revizuiri",
+    "text_4": "Începe"
+  },
+  "hero": {
+    "text_1": "Decodor & decodor baza64",
+    "text_2": "Cel mai de încredere instrument Base64 din lume. Rapid, sigur şi accesibil la nivel global.",
+    "text_3": "Utilizat de 10.000 + dezvoltatori din întreaga lume.",
+    "text_4": "Suport UTF-8 global",
+    "text_5": "100% Privat",
+    "text_6": "Rezultate instantanee"
+  },
+  "component": {
+    "text_1": "Convertor bază64",
+    "text_2": "Cod",
+    "text_3": "Decodează",
+    "text_4": "Text către cod",
+    "text_5": "Baza64 către decodare",
+    "text_6": "Introduceți textul aici",
+    "text_7": "Sprijină toate limbile și emojis!",
+    "text_8": "Lipeşte-ţi şirul de bază64 aici.",
+    "text_9": "Base64 Rezultat codificat",
+    "text_10": "Text decodat",
+    "text_11": "Copiat",
+    "text_12": "Copiază",
+    "text_13": "Rezultatul tău va apărea aici."
+  },
+  "bmc": {
+    "text_1": "Alimentaţi sesiunile noastre de codare!",
+    "text_2": "Acest instrument este complet gratuit și va fi întotdeauna! Dacă te-a scutit de timp şi stres, ia-ne o cafea. Fiecare pahar ne ajută să menținem și să îmbunătățim acest instrument pentru toată lumea!",
+    "text_3": "Cumpără-ne o cafea.",
+    "text_4": "Fun fapt",
+    "text_5": "Este nevoie de aproximativ 47 de cafele pentru a menține serverele noastre de funcționare pentru o lună!"
+  },
+  "features": {
+    "text_1": "De ce ne aleg dezvoltatorii",
+    "text_2": "Construit cu standarde web moderne și conceput pentru accesibilitatea globală",
+    "text_3": "100% Confidenţialitate",
+    "text_4": "Toate procesele se întâmplă în browser. Datele tale nu părăsesc niciodată dispozitivul.",
+    "text_5": "Suport universal",
+    "text_6": "Manipularea perfectă a UTF-8, emojis, și caractere internaționale.",
+    "text_7": "Fulger rapid",
+    "text_8": "Codare instantanee și decodare cu procesare în timp real.",
+    "text_9": "Dezvoltator prietenos",
+    "text_10": "Interfață curată proiectată de dezvoltatori, pentru dezvoltatori."
+  },
+  "use_cases": {
+    "text_1": "Perfect pentru fiecare caz de utilizare",
+    "text_2": "De la codarea simplă a datelor la integrarea complexă a API",
+    "text_3": "Autentificare API & JWT Jetoane",
+    "text_4": "URL-uri de date și imagini",
+    "text_5": "Atașamente e-mail și MIME",
+    "text_6": "URL Transmiterea datelor sigure",
+    "text_7": "Fișiere și secrete de configurare",
+    "text_8": "Serializarea datelor binare"
+  },
+  "fun_facts": {
+    "text_1": "După numere",
+    "text_2": "De încredere de către dezvoltatori din întreaga lume",
+    "text_3": "Utilizatori zilnici la nivel mondial",
+    "text_4": "Ţări slujite",
+    "text_5": "Fiabilitate în timp util",
+    "text_6": "Întârzierea prelucrării datelor"
+  },
+  "historical_context": {
+    "text_1": "Povestea bazei64",
+    "text_2": "Baza64 codare a fost dezvoltat în primele zile ale internetului pentru a rezolva o problemă fundamentală: cum să transmită în condiții de siguranță date binare peste protocoale bazate pe text, cum ar fi e-mail și HTTP.",
+    "text_3": "RFC 1421",
+    "text_4": "Baza64 a fost primul standardizat pentru confidenţialitate îmbunătăţită Mail",
+    "text_5": "Caractere",
+    "text_6": "Folosește 64 de caractere ASCII",
+    "text_7": "Universal",
+    "text_8": "Acum folosit peste tot de la API web la URL-uri de date",
+    "text_9": "Astăzi, Baza64 este o parte esențială a dezvoltării web moderne, permițând totul de la jetoane JWT la imagini online. Instrumentul nostru continuă această moștenire prin a face Base64 accesibil pentru dezvoltatorii din întreaga lume!"
+  },
+  "testimonials": {
+    "text_1": "Iubiţi de dezvoltatori la nivel mondial",
+    "text_2": "Alăturaţi-vă miilor de dezvoltatori mulţumiţi din fiecare colţ al globului",
+    "text_3": "Sarah Chen",
+    "text_4": "Dezvoltator complet Stack",
+    "text_5": "Singapore",
+    "text_6": "Acest instrument mi-a salvat ore de depanare. Interfaţa este atât de curată şi intuitivă!",
+    "text_7": "Ahmed Al-Rashid",
+    "text_8": "Inginer DevOps",
+    "text_9": "EAU",
+    "text_10": "Perfect pentru testarea API. Funcţionează perfect cu personaje internaţionale.",
+    "text_11": "María González",
+    "text_12": "Analist de securitate",
+    "text_13": "Mexic",
+    "text_14": "Îmi place intimitatea-prima abordare. Totul se întâmplă în browser!",
+    "text_15": "Raj Patel",
+    "text_16": "Data Scientist",
+    "text_17": "India",
+    "text_18": "Foarte rapid şi de încredere. O folosesc zilnic pentru preprocesarea datelor."
+  },
+  "cta": {
+    "text_1": "Gata pentru a coda & decoda?",
+    "text_2": "Alătură-te miilor de dezvoltatori care au încredere în instrumentul nostru pentru nevoile lor Base64. Rapid, sigur, și întotdeauna liber!",
+    "text_3": "Începe convertirea acum"
+  },
+  "sponsor": {
+    "text_1": "Deveni Sponsor nostru exclusiv!",
+    "text_2": "Obține compania ta prezentat proeminent pe acest instrument pentru totdeauna! Perfect pentru instrumente de dezvoltare, servicii de găzduire, sau orice afacere de servire a comunității dezvoltator.",
+    "text_3": "Ce obţii",
+    "text_4": "Plasarea logo-ului proeminent pe fiecare pagină",
+    "text_5": "Link direct către site-ul dumneavoastră",
+    "text_6": "Expunerea la 1000+ utilizatori zilnici",
+    "text_7": "Sponsorizare exclusivă (doar 1 loc disponibil!)",
+    "text_8": "Publicul dezvoltatorilor globali",
+    "text_9": "Plata unică, sponsorizarea pe viaţă",
+    "text_10": "Asiguraţi - vă punctul de vedere acum"
+  }
+}

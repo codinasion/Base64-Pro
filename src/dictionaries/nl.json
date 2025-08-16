@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Gratis Base64 Encoder Decoder Online Hulpmiddel - UTF-8 Ondersteuning",
+    "description": "Gratis Base64 encoder en decoder gereedschap met UTF-8 ondersteuning. Converteer tekst naar Base64 en decodeer Base64 strings direct. Privacygericht, werkt offline, ondersteunt internationale karakters en emojis. Gebruikt door 10.000+ ontwikkelaars wereldwijd.",
+    "keywords": "base64 encoder, base64 decoder, base64 converter online, gratis base64 tool, utf-8 base64, base64 encoderen decoderen, online base64 converter, base64 string encoder, javascript base64, ontwikkelaar tools base64, veilige base64 converter, internationale base64 encoder, emoji base64 ondersteuning, jwt base64 decoder, api base64 tool",
+    "codinasion": "Codinasie",
+    "og_title": "Gratis Base64 Encoder Decoder - Privacy-Eerste Ontwikkelaar Tool",
+    "og_description": "Het meest vertrouwde Base64 gereedschap ter wereld. Snel, veilig en wereldwijd toegankelijk. Ondersteunt UTF-8, emojis, en internationale karakters. Gebruikt door 10.000+ ontwikkelaars wereldwijd. 100% gratis voor altijd."
+  },
+  "navbar": {
+    "text_1": "Basis64 Pro",
+    "text_2": "Kenmerken",
+    "text_3": "Evaluaties",
+    "text_4": "Starten"
+  },
+  "hero": {
+    "text_1": "Base64 Encoder & Decoder",
+    "text_2": "Het meest vertrouwde Base64 gereedschap ter wereld. Snel, veilig en wereldwijd toegankelijk.",
+    "text_3": "Gebruikt door 10.000+ ontwikkelaars wereldwijd.",
+    "text_4": "Globale ondersteuning voor UTF-8",
+    "text_5": "100% Privé",
+    "text_6": "Onmiddellijke resultaten"
+  },
+  "component": {
+    "text_1": "Base64 Converter",
+    "text_2": "Coderen",
+    "text_3": "Decoderen",
+    "text_4": "Tekst naar coderen",
+    "text_5": "Basis64 aan Decoderen",
+    "text_6": "Voer hier uw tekst in",
+    "text_7": "Ondersteunt alle talen en emojis!",
+    "text_8": "Plak je Base64 gecodeerde string hier",
+    "text_9": "Basis64 gecodeerd resultaat",
+    "text_10": "Gedecodeerde tekst",
+    "text_11": "gekopieerd",
+    "text_12": "Kopiëren",
+    "text_13": "Uw resultaat zal hier verschijnen"
+  },
+  "bmc": {
+    "text_1": "Brandstof onze Coding Sessions!",
+    "text_2": "Deze tool is volledig gratis en zal altijd zijn! Als het bespaart u tijd en stress, overwegen ons een koffie te kopen. Elke beker helpt ons dit gereedschap voor iedereen te onderhouden en te verbeteren!",
+    "text_3": "Koop ons een koffie",
+    "text_4": "Leuk feitje",
+    "text_5": "Het duurt ongeveer 47 koffie om onze servers draaiende te houden voor een maand!"
+  },
+  "features": {
+    "text_1": "Waarom Ontwikkelaars ons kiezen",
+    "text_2": "Gebouwd met moderne webstandaarden en ontworpen voor wereldwijde toegankelijkheid",
+    "text_3": "100% privacy",
+    "text_4": "Alle verwerking gebeurt in uw browser. Uw gegevens laten nooit uw apparaat achter.",
+    "text_5": "Universele ondersteuning",
+    "text_6": "Perfecte behandeling van UTF-8, emojis en internationale karakters.",
+    "text_7": "Bliksemsnel",
+    "text_8": "Instant codering en decoderen met real-time verwerking.",
+    "text_9": "Ontwikkelaar vriendelijk",
+    "text_10": "Clean interface ontworpen door ontwikkelaars, voor ontwikkelaars."
+  },
+  "use_cases": {
+    "text_1": "Perfect voor elk gebruik geval",
+    "text_2": "Van eenvoudige gegevenscodering tot complexe API-integraties",
+    "text_3": "API-authenticatie & JWT Tokens",
+    "text_4": "Data-URL's en afbeeldingen invoegen",
+    "text_5": "E-mailbijlagen & MIME",
+    "text_6": "URL Veilige gegevensoverdracht",
+    "text_7": "Configuratiebestanden & geheimen",
+    "text_8": "Binaire gegevensserialisatie"
+  },
+  "fun_facts": {
+    "text_1": "Door de nummers",
+    "text_2": "Vertrouwd door ontwikkelaars over de hele wereld",
+    "text_3": "Dagelijkse gebruikers wereldwijd",
+    "text_4": "Gediende landen",
+    "text_5": "Uptime Betrouwbaarheid",
+    "text_6": "Vertraging bij gegevensverwerking"
+  },
+  "historical_context": {
+    "text_1": "Het verhaal van Base64",
+    "text_2": "Base64 codering werd ontwikkeld in de vroege dagen van het internet om een fundamenteel probleem op te lossen: hoe binaire gegevens veilig te verzenden via tekst gebaseerde protocollen zoals e-mail en HTTP.",
+    "text_3": "RFC 1421",
+    "text_4": "Base64 werd eerst gestandaardiseerd voor Privacy Enhanced Mail",
+    "text_5": "Tekens",
+    "text_6": "Gebruikt 64 ASCII-tekens",
+    "text_7": "Universeel",
+    "text_8": "Nu overal gebruikt van web API's tot data URL's",
+    "text_9": "Vandaag de dag is Base64 een essentieel onderdeel van de moderne webontwikkeling, waardoor alles van JWT tokens tot inline beelden. Onze tool zet deze erfenis voort door Base64 wereldwijd toegankelijk te maken voor ontwikkelaars!"
+  },
+  "testimonials": {
+    "text_1": "Geliefd bij ontwikkelaars wereldwijd",
+    "text_2": "Sluit je aan bij duizenden tevreden ontwikkelaars uit elke hoek van de wereld",
+    "text_3": "Sarah Chen",
+    "text_4": "Volledige Stack Ontwikkelaar",
+    "text_5": "Singapore",
+    "text_6": "Dit gereedschap heeft me uren van debuggen bespaard. De interface is zo schoon en intuïtief!",
+    "text_7": "Ahmed Al-Rashid",
+    "text_8": "DevOps Engineer",
+    "text_9": "VAE",
+    "text_10": "Perfect voor API testen. Werkt foutloos met internationale personages.",
+    "text_11": "María González",
+    "text_12": "Security Analyst",
+    "text_13": "Mexico",
+    "text_14": "Ik hou van de privacy-eerste benadering. Alles gebeurt in de browser!",
+    "text_15": "Raj Patel",
+    "text_16": "Gegevenswetenschapper",
+    "text_17": "India",
+    "text_18": "Supersnel en betrouwbaar. Ik gebruik het dagelijks voor gegevensverwerking."
+  },
+  "cta": {
+    "text_1": "Klaar om te coderen?",
+    "text_2": "Sluit je aan bij duizenden ontwikkelaars die ons gereedschap vertrouwen voor hun Base64 behoeften. Snel, veilig en altijd vrij!",
+    "text_3": "Start Nu converteren"
+  },
+  "sponsor": {
+    "text_1": "Word onze exclusieve sponsor!",
+    "text_2": "Krijg uw bedrijf prominent gekenmerkt op deze tool voor altijd! Perfect voor developer tools, hosting diensten, of een bedrijf ten dienste van de ontwikkelaar gemeenschap.",
+    "text_3": "Wat krijg je?",
+    "text_4": "Prominente logo plaatsing op elke pagina",
+    "text_5": "Directe link naar uw website",
+    "text_6": "Blootstelling aan 1000+ dagelijkse gebruikers",
+    "text_7": "Exclusieve sponsoring (slechts 1 plek beschikbaar!)",
+    "text_8": "Wereldwijd ontwikkelaarpubliek",
+    "text_9": "Eenmalige betaling, levenslange sponsoring",
+    "text_10": "Beveilig je plek nu"
+  }
+}

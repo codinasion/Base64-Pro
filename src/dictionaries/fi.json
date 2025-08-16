@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Ilmainen Base64 Encoder Decoder Online Tool - UTF-8 Tuki ...",
+    "description": "Vapaa Base64-koodaaja ja dekooderi työkalu UTF-8 tukea. Muunna teksti Base64: lle ja poista Base64: n merkkijonot välittömästi. Yksityisyys keskittyy, toimii offline, tukee kansainvälisiä merkkejä ja emojit. Käytetään 10 000+ kehittäjät ympäri maailmaa.",
+    "keywords": "base64 encoder, base64 dekooderi, base64 muunnin verkossa, vapaa base64 työkalu, utf-8 base64, base64 encode decode, online base64 muunnin, base64 near encoder, javascript base64, kehittäjä työkalut base64, turvallinen base64 muunnin, kansainvälinen base64 encoder, emoji base64 tuki, jwt base64 dekooderi, api base64 työkalu",
+    "codinasion": "Kodenoosi",
+    "og_title": "Ilmainen Base64-kooderi dekooderi - Yksityisyyden ensimmäinen kehittäjä työkalu",
+    "og_description": "Maailman luotettavin tukikohta64. Nopea, turvallinen ja maailmanlaajuinen. Tukee UTF-8, emojis, ja kansainvälisiä merkkejä. Käytetään 10 000+ kehittäjät ympäri maailmaa. Täysin ilmainen ikuisesti."
+  },
+  "navbar": {
+    "text_1": "Perus64 Pro",
+    "text_2": "Ominaisuudet",
+    "text_3": "Uudelleentarkastelu",
+    "text_4": "Aloita"
+  },
+  "hero": {
+    "text_1": "Base64-koodaaja ja -purkaja",
+    "text_2": "Maailman luotettavin tukikohta64. Nopea, turvallinen ja maailmanlaajuinen.",
+    "text_3": "Käytetään 10 000+ kehittäjät ympäri maailmaa.",
+    "text_4": "Maailmanlaajuinen UTF-8-tuki",
+    "text_5": "100% Yksityinen",
+    "text_6": "Välittömät tulokset"
+  },
+  "component": {
+    "text_1": "Base64-muunnin",
+    "text_2": "Koodaa",
+    "text_3": "Purkakaa koodi",
+    "text_4": "Koodattava teksti",
+    "text_5": "Perus64 - koodin purku",
+    "text_6": "Kirjoita teksti tähän",
+    "text_7": "Tukee kaikkia kieliä ja emojeja!",
+    "text_8": "Liitä Base64 koodattu merkkijono tähän",
+    "text_9": "Perus64 Koodattu tulos",
+    "text_10": "Purettu teksti",
+    "text_11": "Kopioi",
+    "text_12": "Kopioi",
+    "text_13": "Sinun tulos näkyy täällä"
+  },
+  "bmc": {
+    "text_1": "Polttoainetta koodaussessioihin!",
+    "text_2": "Tämä työkalu on täysin ilmainen ja tulee aina olemaan! Jos se säästää aikaa ja stressiä, harkitse kahvin ostamista. Jokainen kuppi auttaa meitä ylläpitämään ja parantamaan tätä työkalua kaikille!",
+    "text_3": "Osta meille kahvi",
+    "text_4": "Hauska fakta",
+    "text_5": "Tarvitaan noin 47 kahvia pitää palvelimet käynnissä kuukauden!"
+  },
+  "features": {
+    "text_1": "Miksi kehittäjät valitsevat meidät",
+    "text_2": "Rakennettu nykyaikaisilla web-standardeilla ja suunniteltu globaaliin saavutettavuuteen",
+    "text_3": "100% Yksityisyys",
+    "text_4": "Kaikki käsittely tapahtuu selaimessasi. Tietosi eivät koskaan poistu laitteestasi.",
+    "text_5": "Yleinen tuki",
+    "text_6": "Täydellinen käsittely UTF-8, emojit, ja kansainvälisiä merkkejä.",
+    "text_7": "Salama Nopea",
+    "text_8": "Välitön koodaus ja purku reaaliaikaisella prosessoinnilla.",
+    "text_9": "Kehittäjän ystävällinen",
+    "text_10": "Puhdasta käyttöliittymää suunniteltu kehittäjille, kehittäjille."
+  },
+  "use_cases": {
+    "text_1": "Täydellinen jokaiseen käyttöön",
+    "text_2": "Yksinkertaisesta datakoodauksesta monimutkaisiin API-integrointeihin",
+    "text_3": "API- todennus & JWT muut",
+    "text_4": "Datan URL- osoite ja kuvat",
+    "text_5": "Sähköpostiliitteet & MIME",
+    "text_6": "URL Turvallinen tiedonsiirto",
+    "text_7": "Asetukset & salaisuudet",
+    "text_8": "Binary Data Serialisation"
+  },
+  "fun_facts": {
+    "text_1": "Numeroiden mukaan",
+    "text_2": "Luottavat kehittäjät ympäri maailmaa",
+    "text_3": "Päivittäiset käyttäjät maailmanlaajuisesti",
+    "text_4": "Maat",
+    "text_5": "Luotettavuus",
+    "text_6": "Tietojen käsittelyn viivästyminen"
+  },
+  "historical_context": {
+    "text_1": "Tukikohdan tarina64",
+    "text_2": "Base64 koodaus kehitettiin alkuaikoina internetin ratkaista perustavanlaatuinen ongelma: miten turvallisesti siirtää binääritietoja tekstipohjaisia protokollia, kuten sähköpostia ja HTTP.",
+    "text_3": "RFC 1421",
+    "text_4": "Base64 oli ensin standardoitu Privacy Enhanced Mail",
+    "text_5": "Merkit",
+    "text_6": "Käyttää 64 ASCII merkkiä",
+    "text_7": "Yleinen",
+    "text_8": "Nyt käytetään kaikkialla web-liittymät data URL",
+    "text_9": "Nykyään Base64 on olennainen osa modernia web-kehitystä, joka mahdollistaa kaiken JWT-poleteista inline-kuviin. Työkalumme jatkaa tätä perinnettä tekemällä Base64:sta maailmanlaajuisesti kehittäjien saatavilla!"
+  },
+  "testimonials": {
+    "text_1": "Kehittäjien rakastama maailmalla",
+    "text_2": "Liity tuhansiin tyytyväisiä kehittäjiä ympäri maailmaa",
+    "text_3": "Sarah Chen",
+    "text_4": "Täysi pinon kehittäjä",
+    "text_5": "Singapore",
+    "text_6": "Tämä työkalu säästi tunteja vianetsintää. Käyttöliittymä on niin puhdas ja intuitiivinen!",
+    "text_7": "Ahmed Al-Rashid",
+    "text_8": "DevOps Insinööri",
+    "text_9": "Arabiemiirikunnat",
+    "text_10": "Täydellinen API-testaukseen. Toimii moitteettomasti kansainvälisten merkkien kanssa.",
+    "text_11": "María González",
+    "text_12": "Turvallisuusanalyytikko",
+    "text_13": "Meksiko",
+    "text_14": "Rakastan yksityisyyttä. Kaikki tapahtuu selaimessa!",
+    "text_15": "Raj Patel",
+    "text_16": "Datatutkija",
+    "text_17": "Intia",
+    "text_18": "Super nopea ja luotettava. Käytän sitä päivittäin tietojen esikäsittelyyn."
+  },
+  "cta": {
+    "text_1": "Oletko valmis koodaamaan?",
+    "text_2": "Liity tuhansiin kehittäjiin, jotka luottavat työkaluomme. Nopea, turvallinen ja aina vapaa!",
+    "text_3": "Aloita muuntaminen nyt"
+  },
+  "sponsor": {
+    "text_1": "Tule Sponsoriksemme!",
+    "text_2": "Hanki yrityksesi näkyvästi tämän työkalun ikuisesti! Täydellinen kehittäjä työkaluja, hosting palveluja, tai mitään liiketoimintaa palveleva kehittäjä yhteisö.",
+    "text_3": "Mitä saat",
+    "text_4": "Merkittävä logosijoittelu jokaisella sivulla",
+    "text_5": "Suora linkki sivustoosi",
+    "text_6": "Altistuminen 1000+-vuorokausikäyttäjille",
+    "text_7": "Yksinomainen sponsorointi (vain 1 paikka saatavilla!)",
+    "text_8": "Maailmanlaajuinen kehittäjäyleisö",
+    "text_9": "Kertamaksu, elinikäinen sponsorointi",
+    "text_10": "Varmista paikkasi nyt"
+  }
+}
