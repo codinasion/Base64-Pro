@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Free Base64 Encoder Decode Online Tool - UTF- 8 Wsparcie 124; Base64 Pro",
+    "description": "Free Base64 Encoder i narzędzie dekodera z obsługą UTF- 8. Konwertuj tekst na Base64 i natychmiast dekoduj ciągi Base64. Privacy- skoncentrowane, działa offline, obsługuje międzynarodowe znaki i emojis. Używany przez 10 000 + deweloperów na całym świecie.",
+    "keywords": "base64 encoder, base64 dekoder, base64 konwerter online, darmowy base64 narzędzie, utf- 8 base64, base64 encode dekoder, online base64 konwerter, base64 string encoder, javascript base64, deweloper tools base64, bezpieczny base64 konwerter, międzynarodowy base64 encoder, emoji base64 wsparcie, jwt base64 dekoder, api base64 narzędzie",
+    "codinasion": "Kodynazja",
+    "og_title": "Free Base64 Dekoder Encoder - Privacy- First Developer Tool",
+    "og_description": "Najbardziej zaufane narzędzie Base64 na świecie. Szybki, bezpieczny i globalnie dostępny. Obsługuje UTF- 8, emojis i znaki międzynarodowe. Używany przez 10 000 + deweloperów na całym świecie. Na zawsze."
+  },
+  "navbar": {
+    "text_1": "Base64 Pro",
+    "text_2": "Cechy",
+    "text_3": "Przeglądy",
+    "text_4": "Zacznij"
+  },
+  "hero": {
+    "text_1": "Base64 Encoder & Dekoder",
+    "text_2": "Najbardziej zaufane narzędzie Base64 na świecie. Szybki, bezpieczny i globalnie dostępny.",
+    "text_3": "Używany przez 10 000 + deweloperów na całym świecie.",
+    "text_4": "Globalne wsparcie UTF- 8",
+    "text_5": "100% prywatne",
+    "text_6": "Wyniki natychmiastowe"
+  },
+  "component": {
+    "text_1": "Base64 Converter",
+    "text_2": "Kod",
+    "text_3": "Dekodowanie",
+    "text_4": "Tekst do kodowania",
+    "text_5": "Base64 do Decode",
+    "text_6": "Wpisz swój tekst tutaj",
+    "text_7": "Obsługuje wszystkie języki i emojis!",
+    "text_8": "Wklej swój zakodowany łańcuch Base64 tutaj",
+    "text_9": "Base64 Wynik zakodowany",
+    "text_10": "Odkodowany tekst",
+    "text_11": "Kopiowane",
+    "text_12": "Kopiuj",
+    "text_13": "Twój wynik pojawi się tutaj."
+  },
+  "bmc": {
+    "text_1": "Paliwo do naszych sesji kodowania!",
+    "text_2": "To narzędzie jest całkowicie darmowe i zawsze będzie! Jeśli oszczędziłoby ci to czasu i stresu, rozważ kupno nam kawy. Każdy kubek pomaga nam utrzymać i ulepszyć to narzędzie dla wszystkich!",
+    "text_3": "Kup nam kawę",
+    "text_4": "Zabawny fakt",
+    "text_5": "Potrzeba 47 kaw, żeby nasze serwery działały przez miesiąc!"
+  },
+  "features": {
+    "text_1": "Dlaczego programiści wybierają nas",
+    "text_2": "Zbudowany z nowoczesnych standardów internetowych i przeznaczony do globalnej dostępności",
+    "text_3": "100% Prywatność",
+    "text_4": "Wszystkie przetwarzanie odbywa się w przeglądarce. Twoje dane nigdy nie opuszczają urządzenia.",
+    "text_5": "Uniwersalne wsparcie",
+    "text_6": "Doskonała obsługa UTF- 8, emojis i znaków międzynarodowych.",
+    "text_7": "Szybkie błyskawice",
+    "text_8": "Natychmiastowe kodowanie i dekodowanie z przetwarzaniem w czasie rzeczywistym.",
+    "text_9": "Przyjazny dla programisty",
+    "text_10": "Czysty interfejs zaprojektowany przez developerów, dla deweloperów."
+  },
+  "use_cases": {
+    "text_1": "Perfect for every use case",
+    "text_2": "Od zwykłego kodowania danych do skomplikowanej integracji API",
+    "text_3": "API Authentication & JWT Toki",
+    "text_4": "URL danych i osadzanie obrazów",
+    "text_5": "Załączniki e-mail i MIME",
+    "text_6": "URL Bezpieczne przesyłanie danych",
+    "text_7": "Pliki konfiguracyjne i tajemnice",
+    "text_8": "Serializacja danych binarnych"
+  },
+  "fun_facts": {
+    "text_1": "Przez numery",
+    "text_2": "Zaufane przez deweloperów na całym świecie",
+    "text_3": "Dzienni użytkownicy na całym świecie",
+    "text_4": "Kraje obsługiwane",
+    "text_5": "Niezawodność uptime",
+    "text_6": "Opóźnienie przetwarzania danych"
+  },
+  "historical_context": {
+    "text_1": "Historia Base64",
+    "text_2": "Base64 kodowanie zostało opracowane we wczesnych dniach internetu, aby rozwiązać podstawowy problem: jak bezpiecznie przesyłać dane binarne przez protokoły oparte na tekstach, takie jak e-mail i HTTP.",
+    "text_3": "RFC 1421",
+    "text_4": "Base64 został po raz pierwszy znormalizowany dla Privacy Enhanced Mail",
+    "text_5": "Znaki",
+    "text_6": "Wykorzystuje 64 znaki ASCII",
+    "text_7": "Uniwersalny",
+    "text_8": "Teraz używane wszędzie od internetowych API do adresów URL danych",
+    "text_9": "Dziś Base64 jest istotnym elementem nowoczesnego rozwoju sieci, umożliwiając wszystko od żetonów JWT do inline obrazów. Nasze narzędzie kontynuuje to dziedzictwo poprzez udostępnienie Base64 deweloperom na całym świecie!"
+  },
+  "testimonials": {
+    "text_1": "Loved by Developers Worldwide",
+    "text_2": "Dołącz do tysięcy zadowolonych deweloperów z każdego zakątka świata",
+    "text_3": "Sarah Chen",
+    "text_4": "Pełny programista stosu",
+    "text_5": "Singapur",
+    "text_6": "To narzędzie oszczędziło mi godzin debugowania. Interfejs jest tak czysty i intuicyjny!",
+    "text_7": "Ahmed Al- Rashid",
+    "text_8": "Inżynier DevOps",
+    "text_9": "ZEA",
+    "text_10": "Idealny do testów API. Działa bez zarzutu z międzynarodowymi postaciami.",
+    "text_11": "María González",
+    "text_12": "Analityk bezpieczeństwa",
+    "text_13": "Meksyk",
+    "text_14": "Uwielbiam prywatne podejście. Wszystko dzieje się w przeglądarce!",
+    "text_15": "Raj Patel",
+    "text_16": "Naukowiec danych",
+    "text_17": "Indie",
+    "text_18": "Super szybki i niezawodny. Używam go codziennie do wstępnego przetwarzania danych."
+  },
+  "cta": {
+    "text_1": "Gotowy do kodowania & dekodowania?",
+    "text_2": "Dołącz do tysięcy deweloperów, którzy ufają naszemu narzędziu dla swoich potrzeb Base64. Szybko, bezpiecznie i zawsze za darmo!",
+    "text_3": "Zacznij konwertować teraz"
+  },
+  "sponsor": {
+    "text_1": "Zostań naszym wyłącznym sponsorem!",
+    "text_2": "Uzyskaj swoją firmę wybitnie na tym narzędziu na zawsze! Idealny do narzędzi deweloperskich, usług hostingowych lub wszelkich firm służących społeczności deweloperskiej.",
+    "text_3": "Co dostajesz",
+    "text_4": "Znaczące umieszczenie logo na każdej stronie",
+    "text_5": "Bezpośredni link do Twojej strony internetowej",
+    "text_6": "Ekspozycja na 1000 + użytkowników dziennie",
+    "text_7": "Wyłączne sponsorowanie (tylko 1 miejsce dostępne!)",
+    "text_8": "Globalna publiczność deweloperska",
+    "text_9": "Wypłata jednorazowa, dożywotnia",
+    "text_10": "Zabezpiecz swoje miejsce teraz"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Bezmaksas Base64 Kodētāja dekoderis Online Tool - UTF-8 atbalsts ",
+    "description": "Bezmaksas Base64 kodētāja un dekodera rīks ar UTF-8 atbalstu. Konvertēt tekstu uz Base64 un atšifrēt Base64 virknes uzreiz. Uz privātumu vērsta, strādā bezsaistē, atbalsta starptautiskās rakstzīmes un emojis. Izmanto 10 000+ izstrādātāji visā pasaulē.",
+    "keywords": "bāzes64 kodētājs, bāzes64 dekoders, bāzes64 pārveidotājs tiešsaistē, bezmaksas bāzes64 instruments, utf-8 bāzes64, bāzes64 kodējumu atšifrēt, tiešsaistes bāzes64 pārveidotājs, bāzes64 stīgu kodētājs, javascript bāzes64, izstrādātāja rīku bāzes64, droša bāzes64 pārveidotājs, starptautiskās bāzes64 kodētājs, emoji bāzes64 atbalsts, jwt bāzes64 dekoders, api bāzes64 rīks",
+    "codinasion": "Kodinazija",
+    "og_title": "Bezmaksas Base64 kodētāja dekoderis - Privacy- First Developer Tool",
+    "og_description": "Pasaulē uzticamākais instruments Base64. Ātra, droša un globāli pieejama. Atbalsta UTF-8, emocijs, un starptautiskās rakstzīmes. Izmanto 10 000+ izstrādātāji visā pasaulē. 100% bez maksas uz visiem laikiem."
+  },
+  "navbar": {
+    "text_1": "Bāze64 Pro",
+    "text_2": "Īpašības",
+    "text_3": "Pārskatīšana",
+    "text_4": "Sākt"
+  },
+  "hero": {
+    "text_1": "Bāze64 Kodētājs",
+    "text_2": "Pasaulē uzticamākais instruments Base64. Ātra, droša un globāli pieejama.",
+    "text_3": "Izmanto 10 000+ izstrādātāji visā pasaulē.",
+    "text_4": "Globālais UTF-8 atbalsts",
+    "text_5": "100% Privāts",
+    "text_6": "Tūlītēji rezultāti"
+  },
+  "component": {
+    "text_1": "Base64 pārveidotājs",
+    "text_2": "Kodēt",
+    "text_3": "Atkodēt",
+    "text_4": "Kodēt tekstu",
+    "text_5": "Bāze64 to decode",
+    "text_6": "Šeit ievadiet tekstu",
+    "text_7": "Atbalsta visas valodas un emocijs!",
+    "text_8": "Šeit ielīmēt bāzi64 kodētu virkni",
+    "text_9": "Bāze64 Kodēts rezultāts",
+    "text_10": "Atkodēts teksts",
+    "text_11": "Nokopēts",
+    "text_12": "Kopēt",
+    "text_13": "Jūsu rezultāts parādīsies šeit"
+  },
+  "bmc": {
+    "text_1": "Mūsu kodēšanas sesijas",
+    "text_2": "Šis rīks ir pilnīgi bez maksas un vienmēr būs! Ja tas ietaupīja jums laiku un stresu, apsveriet mums nopirkt kafiju. Katrs kauss palīdz mums uzturēt un uzlabot šo rīku ikvienam!",
+    "text_3": "Iegādāsimies kafiju",
+    "text_4": "Jautrība",
+    "text_5": "Lai mūsu serveri darbotos veselu mēnesi, ir vajadzīgas aptuveni 47 kafijas!"
+  },
+  "features": {
+    "text_1": "Kāpēc izstrādātāji izvēlas mūs",
+    "text_2": "Built ar mūsdienu web standartiem un paredzēti globālai pieejamībai",
+    "text_3": "100% Privacy",
+    "text_4": "Visa apstrāde notiek jūsu pārlūkprogrammā. Jūsu dati nekad nepamet ierīci.",
+    "text_5": "Universāls atbalsts",
+    "text_6": "Perfekta UTF-8, emocijzīmju un starptautisko tēlu apstrāde.",
+    "text_7": "Ātri zibens",
+    "text_8": "Tūlītēja kodēšana un dekodēšana ar reāllaika apstrādi.",
+    "text_9": "Izstrādātājs draudzīgs",
+    "text_10": "Tīra saskarne, ko projektējuši izstrādātāji, izstrādātājiem."
+  },
+  "use_cases": {
+    "text_1": "Ideāli piemērots katram gadījumam",
+    "text_2": "No vienkārša datu kodēšanas uz sarežģītu API integrāciju",
+    "text_3": "API autentifikācija & JWT Žetoni",
+    "text_4": "Datu URL un attēlu iegulšana",
+    "text_5": "E- pasta pielikumi un MIME",
+    "text_6": "URL Droša datu pārraide",
+    "text_7": "Konfigurācijas faili un noslēpumi",
+    "text_8": "Binārā datu serializācija"
+  },
+  "fun_facts": {
+    "text_1": "Pēc skaitļiem",
+    "text_2": "Uzticas izstrādātājiem visā pasaulē",
+    "text_3": "Ikdienas lietotāji visā pasaulē",
+    "text_4": "Valstis, kas kalpoja Dievam",
+    "text_5": "Augšupēja uzticamība",
+    "text_6": "Datu apstrādes kavējumi"
+  },
+  "historical_context": {
+    "text_1": "Stāsts par bāzi64",
+    "text_2": "Base64 kodējums tika izstrādāts interneta sākumposmā, lai atrisinātu fundamentālu problēmu: kā droši pārraidīt bināros datus pa tekstu bāzētiem protokoliem, piemēram, e-pastu un HTTP.",
+    "text_3": "RFC 1421",
+    "text_4": "Base64 tika pirmo reizi standartizēts privātuma uzlabots pasts",
+    "text_5": "Rakstzīmes",
+    "text_6": "Izmanto 64 ASCII rakstzīmes",
+    "text_7": "Universāls",
+    "text_8": "Tagad tiek izmantots visur no tīmekļa API datu URLiem",
+    "text_9": "Šodien Base64 ir būtiska mūsdienu tīmekļa attīstības daļa, kas ļauj visu no JWT tokens līdz inline attēliem. Mūsu rīks turpina šo mantojumu, padarot Base64 pieejamu izstrādātājiem visā pasaulē!"
+  },
+  "testimonials": {
+    "text_1": "Patīk attīstītāji visā pasaulē",
+    "text_2": "Pievienoties tūkstošiem apmierināti izstrādātāji no katra stūra pasaulē",
+    "text_3": "Sarah Chen",
+    "text_4": "Pilna kaudzes izstrādātājs",
+    "text_5": "Singapūra",
+    "text_6": "Šis rīks man izglāba stundas atkļūdošanas. Saskarne ir tik tīra un intuitīva!",
+    "text_7": "Ahmed Al-Rashid",
+    "text_8": "DevOps inženieris",
+    "text_9": "AAE",
+    "text_10": "Ideāls API testēšanai. Nevainojami strādā ar starptautiskiem burtiem.",
+    "text_11": "Komisijas locekle",
+    "text_12": "Drošības analītiķis",
+    "text_13": "Meksika",
+    "text_14": "Mīlestība privātuma pirmā pieeja. Viss notiek pārlūkā!",
+    "text_15": "Raj Patel",
+    "text_16": "Datu zinātnieks",
+    "text_17": "Indija",
+    "text_18": "Super ātri un uzticami. Es to lietoju katru dienu datu priekšapstrādei."
+  },
+  "cta": {
+    "text_1": "Gatavs kodēt un dekodēt?",
+    "text_2": "Pievienoties tūkstošiem izstrādātāju, kas uzticas mūsu rīks to Base64 vajadzībām. Ātri, droši un vienmēr brīvi!",
+    "text_3": "Sākt tagad pārveidot"
+  },
+  "sponsor": {
+    "text_1": "Kļūsti par mūsu īpašo sponsoru!",
+    "text_2": "Get jūsu uzņēmums featured ievērojami par šo rīku uz visiem laikiem! Ideāli piemērots attīstītāju rīkus, hostinga pakalpojumus, vai jebkuru uzņēmumu, kas apkalpo attīstītāju kopienu.",
+    "text_3": "Ko jūs saņemsiet",
+    "text_4": "Ievērojams logo izvietojums katrā lapā",
+    "text_5": "Tiešā saite uz jūsu tīmekļa vietni",
+    "text_6": "1000+ ikdienas lietotāju ekspozīcija",
+    "text_7": "Ekskluzīva sponsorēšana (pieejama tikai 1 vieta!)",
+    "text_8": "Globālā attīstītāju auditorija",
+    "text_9": "Vienreizējs maksājums, mūža sponsorēšana",
+    "text_10": "Nodrošiniet savu vietu tagad"
+  }
+}

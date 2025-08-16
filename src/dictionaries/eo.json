@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Free Base64 Encoder Decoder Online Tool - UTF-8 Subteno | Base64 Pro",
+    "description": "Free Base64 kodigilo kaj deĉifrilo kun UTF-8 subteno. Konverti tekston al Base64 kaj deĉifri Base64 kordojn tuj. Privateco-fokusita, laboras offline, apogas internaciajn karakterojn kaj emojis. Uzita fare de 10,000+ programistoj tutmonde.",
+    "keywords": "bazo64 kodigilo, bazo64 decoder, bazo64 transformilo rete, libera bazo64 ilo, utf-8 bazo64, bazo64 ĉifraddecode, reta bazo64 transformilo, bazo64 kordkodigilo, javascript bazo64, programistoj iloj bazo64, sekura bazo64 transformilo, internacia bazo64 kodigilo, emoji bazo64 subteno, jwt bazo64 decoder, api bazo64 ilo",
+    "codinasion": "Codinasion",
+    "og_title": "Free Base64 Encoder Decoder - Privateco-First Developer Tool",
+    "og_description": "La plej fidinda Base64-ilo de la monda. Rapida, sekura, kaj tutmonde alirebla. Subtenoj UTF-8, emojis, kaj internaciaj karakteroj. Uzita fare de 10,000+ programistoj tutmonde. 100% libera por ĉiam."
+  },
+  "navbar": {
+    "text_1": "Bazo 64",
+    "text_2": "Plendoj",
+    "text_3": "Revizioj",
+    "text_4": "Komencu komenci"
+  },
+  "hero": {
+    "text_1": "Base64 Encoder & Decoder",
+    "text_2": "La plej fidinda Base64-ilo de la monda. Rapida, sekura, kaj tutmonde alirebla.",
+    "text_3": "Uzita fare de 10,000+ programistoj tutmonde.",
+    "text_4": "Tutmonda UTF-8 Subteno",
+    "text_5": "100%",
+    "text_6": "Tujaj rezultoj"
+  },
+  "component": {
+    "text_1": "Bazo 64 Konvertanto",
+    "text_2": "Encode",
+    "text_3": "Decode",
+    "text_4": "Teksto al Encode",
+    "text_5": "Bazo 64 al Decode",
+    "text_6": "Enmetu vian tekston ĉi tie",
+    "text_7": "subtenas ĉiujn lingvojn kaj emojis!",
+    "text_8": "Via bazo 64 ĉifris ŝnuron ĉi tie",
+    "text_9": "Base64 Encoded Result",
+    "text_10": "Dediĉita teksto",
+    "text_11": "→ Eventoj:",
+    "text_12": "Kopio",
+    "text_13": "Via rezulto aperos ĉi tie"
+  },
+  "bmc": {
+    "text_1": "Instigu niajn kovadojn!",
+    "text_2": "Ĉi tiu ilo estas tute libera kaj ĉiam estos! Se ĝi savis vin tempo kaj streso, konsideru aĉeti kafon. Ĉiu taso helpas nin konservi kaj plibonigi ĉi tiun ilon por ĉiuj!",
+    "text_3": "aĉeti kafon",
+    "text_4": "Bona fakto",
+    "text_5": "Ĝi prenas proksimume 47 kafojn por konservi niajn servilojn kurantajn por monato."
+  },
+  "features": {
+    "text_1": "Kial uzantoj elektas nin",
+    "text_2": "Konstruite kun modernaj interretnormoj kaj dizajnitaj por tutmonda alirebleco",
+    "text_3": "100% privateco",
+    "text_4": "Ĉiu prilaborado okazas en via retumilo. Viaj datumoj neniam lasas vian aparaton.",
+    "text_5": "Universala subteno",
+    "text_6": "Perfekta manipulado de UTF-8, emojis, kaj internaciaj karakteroj.",
+    "text_7": "Fulmo rapida",
+    "text_8": "Tuja kodigado kaj deĉifrado kun realtempa pretigo.",
+    "text_9": "Evoluigi amikon",
+    "text_10": "Pura interfaco dizajnita fare de programistoj, por programistoj."
+  },
+  "use_cases": {
+    "text_1": "Perfekta por ĉiu uza kazo",
+    "text_2": "De simplaj datenoj ĉifrantaj al kompleksaj API-integriĝoj",
+    "text_3": "API Authentication & JWT Tokens",
+    "text_4": "Daten URLoj & Image Embedding",
+    "text_5": "Retpoŝto Attachments & MIME",
+    "text_6": "URL URL URL URL Sekura Data Transmission",
+    "text_7": "Konfiguracio Dosieroj & Sekretoj",
+    "text_8": "Binary Data Serialization"
+  },
+  "fun_facts": {
+    "text_1": "La nombroj",
+    "text_2": "Fidata de programistoj tra la mondo",
+    "text_3": "Ĉiutagaj uzantoj",
+    "text_4": "La landoj servas",
+    "text_5": "Antaŭite fare de Reliability",
+    "text_6": "Datenoj Procesi Delay"
+  },
+  "historical_context": {
+    "text_1": "La Rakonto de Baz64",
+    "text_2": "Baz64 kodigado estis evoluigita en la fruaj tagoj de la Interreto por solvi fundamentan problemon: kiel por sekure elsendi binarajn datenojn super tekst-bazitaj protokoloj kiel retpoŝto kaj HTTP.",
+    "text_3": "RFC 1421",
+    "text_4": "Base64 unue estis normigita por Private Enhanced Mail",
+    "text_5": "karakteroj",
+    "text_6": "ISO 64 Askio karakteroj",
+    "text_7": "Universala Universalaĵo",
+    "text_8": "Nun uzite ĉie de interret APIoj ĝis daten URLoj",
+    "text_9": "Hodiaŭ, Base64 estas esenca parto de moderna interretevoluo, ebligante ĉion de JWT ĵetonoj ĝis inline bildoj. Nia ilo daŭrigas tiun heredaĵon farante Base64 alireblan por programistoj tutmonde."
+  },
+  "testimonials": {
+    "text_1": "Amita fare de Developers Worldwide",
+    "text_2": "Aliĝu al miloj da kontentigitaj programistoj de ĉiu angulo de la globo",
+    "text_3": "Sarah Chen",
+    "text_4": "Plena Stack Developer",
+    "text_5": "Singapuro Singapuro",
+    "text_6": "Ĉi tiu ilo savis min horojn de malkonstruado. La interfaco estas tiel pura kaj intuicia!",
+    "text_7": "Ahmed Al-Rashid",
+    "text_8": "DevOps Engineer",
+    "text_9": "UAE UAE UAE",
+    "text_10": "Perfekta por API-testado. Verkoj perfekte kun internaciaj karakteroj.",
+    "text_11": "María González",
+    "text_12": "Sekureco Analizisto",
+    "text_13": "Meksiko",
+    "text_14": "Amo la privateco-unua alproksimiĝo. Ĉio okazas en la retumilo!",
+    "text_15": "Raj Patel",
+    "text_16": "Datensciencistoj",
+    "text_17": "Hindio",
+    "text_18": "Rapida kaj fidinda. Mi uzas ĝin ĉiutage por datumoj antaŭprocesaj."
+  },
+  "cta": {
+    "text_1": "Preta al Encode & Decode?",
+    "text_2": "Aliĝu al miloj da programistoj kiuj fidas nian ilon por siaj Bazoj. Rapida, sekura, kaj ĉiam libera!",
+    "text_3": "Komencu konverti nun"
+  },
+  "sponsor": {
+    "text_1": "Faru nian Ekskluzivan Sponsor!",
+    "text_2": "Get your firmao prezentita elstare sur tiu ilo eterne! Perfekta por programistoj, gastigi servojn, aŭ ajnan komercon servante la programan komunumon.",
+    "text_3": "Kion vi akiras",
+    "text_4": "Elstara emblemo allokigo sur ĉiu paĝo",
+    "text_5": "Rekta ligo al via retejo",
+    "text_6": "Eksponiĝo al 1000+ ĉiutagaj uzantoj",
+    "text_7": "Ekskluziva sponsorado (nur 1 punkto havebla!)",
+    "text_8": "Tutmonda programisto",
+    "text_9": "Unufoja pago, dumviva sponsorado",
+    "text_10": "Sekuras vian punkton nun"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Free Base64 Encoder Decoder Online nástroj - UTF-8 Podpora ",
+    "description": "Free Base64 kódovací a dekodér nástroj s podporou UTF-8. Previesť text na Base64 a decode Base64 reťazce okamžite. Súkromie zamerané, pracuje offline, podporuje medzinárodné znaky a emojis. Používajú 10 000+ vývojári po celom svete.",
+    "keywords": "base64 kóder, base64 dekodér, base64 prevodník online, free base64 nástroj, utf-8 base64, base64 kód decode, online base64 prevodník, base64 reťazec enkodér, javascript base64, developer nástroje base64, bezpečný base64 prevodník, medzinárodná základňa64 kódovač, emoji base64 podpora, jwt base64 dekodér, api base64 nástroj",
+    "codinasion": "Kodifikácia",
+    "og_title": "Free Base64 kódovač Decoder - Privacy-first Developer Tool",
+    "og_description": "Najdôveryhodnejší nástroj na svete Base64. Rýchle, bezpečné a globálne dostupné. Podporuje UTF-8, emojis, a medzinárodné znaky. Používajú 10 000+ vývojári po celom svete. Navždy na 100% zadarmo."
+  },
+  "navbar": {
+    "text_1": "Base64 Pro",
+    "text_2": "Vlastnosti",
+    "text_3": "Preskúmanie",
+    "text_4": "Začnite"
+  },
+  "hero": {
+    "text_1": "Base64 Encoder & Decoder",
+    "text_2": "Najdôveryhodnejší nástroj na svete Base64. Rýchle, bezpečné a globálne dostupné.",
+    "text_3": "Používajú 10 000+ vývojári po celom svete.",
+    "text_4": "Globálna podpora UTF-8",
+    "text_5": "100% súkromné",
+    "text_6": "Okamžité výsledky"
+  },
+  "component": {
+    "text_1": "Base64 Converter",
+    "text_2": "Kód",
+    "text_3": "Dekódovať",
+    "text_4": "Text na kódovanie",
+    "text_5": "Base64 to Decode",
+    "text_6": "Sem zadajte svoj text",
+    "text_7": "Podporuje všetky jazyky a smajlíky!",
+    "text_8": "Vložiť základňu64 kódovaný reťazec tu",
+    "text_9": "Base64 Zakódovaný výsledok",
+    "text_10": "Dekódovaný text",
+    "text_11": "Kopírované",
+    "text_12": "Kopírovať",
+    "text_13": "Váš výsledok sa objaví tu"
+  },
+  "bmc": {
+    "text_1": "Natankujte naše Coding Sessions!",
+    "text_2": "Tento nástroj je úplne zadarmo a vždy bude! Ak vám ušetrí čas a stres, zvážte kúpu kávy. Každý pohár nám pomáha udržiavať a zlepšovať tento nástroj pre každého!",
+    "text_3": "Kúpte nám kávu",
+    "text_4": "Zábavný fakt",
+    "text_5": "To trvá asi 47 kávy udržať naše servery beží po dobu jedného mesiaca!"
+  },
+  "features": {
+    "text_1": "Prečo si nás vývojári vyberajú",
+    "text_2": "Postavený s modernými webovými normami a navrhnutý pre globálnu dostupnosť",
+    "text_3": "100% súkromie",
+    "text_4": "Všetko spracovanie sa deje vo vašom prehliadači. Vaše dáta nikdy neopustia vaše zariadenie.",
+    "text_5": "Univerzálna podpora",
+    "text_6": "Perfektné zaobchádzanie s UTF-8, emojis, a medzinárodné znaky.",
+    "text_7": "Blesk rýchly",
+    "text_8": "Okamžité kódovanie a dekódovanie so spracovaním v reálnom čase.",
+    "text_9": "Vývojár priateľský",
+    "text_10": "Čisté rozhranie navrhnuté vývojármi, pre vývojárov."
+  },
+  "use_cases": {
+    "text_1": "Perfektné pre každé použitie",
+    "text_2": "Od jednoduchého kódovania dát po komplexné API integrácie",
+    "text_3": "API overenie & JWT Tokeny",
+    "text_4": "Dátové URL & Vkladanie obrázkov",
+    "text_5": "E-mailové prílohy a MIME",
+    "text_6": "URL Bezpečný prenos údajov",
+    "text_7": "Konfiguračné súbory a tajomstvá",
+    "text_8": "Séria binárnych dát"
+  },
+  "fun_facts": {
+    "text_1": "Čísla",
+    "text_2": "Dôverovať developerom po celom svete",
+    "text_3": "Denní používatelia na celom svete",
+    "text_4": "Podávané krajiny",
+    "text_5": "Spoľahlivosť v čase",
+    "text_6": "Oneskorenie spracovania údajov"
+  },
+  "historical_context": {
+    "text_1": "Príbeh základne64",
+    "text_2": "Kódovanie základne64 bolo vyvinuté v prvých dňoch internetu na riešenie základného problému: ako bezpečne prenášať binárne dáta cez textové protokoly, ako je e-mail a HTTP.",
+    "text_3": "RFC 1421",
+    "text_4": "Base64 bol prvý štandardizovaný pre Súkromie Vylepšené Mail",
+    "text_5": "Znaky",
+    "text_6": "Používa 64 znakov ASCII",
+    "text_7": "Univerzálne",
+    "text_8": "Teraz sa používa všade od webových API na dátové URL",
+    "text_9": "Dnes, Base64 je základnou súčasťou moderného vývoja webu, čo umožňuje všetko od JWT tokenov do inline obrázkov. Náš nástroj pokračuje v tomto dedičstve tým, že developerom na celom svete sprístupní základňu64!"
+  },
+  "testimonials": {
+    "text_1": "Milovaní vývojármi na celom svete",
+    "text_2": "Pridajte sa k tisícom spokojných vývojárov z každého kúta sveta",
+    "text_3": "Sarah Chen",
+    "text_4": "Full Stack Developer",
+    "text_5": "Singapur",
+    "text_6": "Tento nástroj mi zachránil hodiny ladenia. Rozhranie je tak čisté a intuitívne!",
+    "text_7": "Ahmed Al-Rashid",
+    "text_8": "DevOps Engineer",
+    "text_9": "SAE",
+    "text_10": "Ideálne pre testovanie API. Pracuje bezchybne s medzinárodnými postavami.",
+    "text_11": "María González",
+    "text_12": "Bezpečnostný analytik",
+    "text_13": "Mexiko",
+    "text_14": "Milujem prvý prístup v súkromí. Všetko sa deje v prehliadači!",
+    "text_15": "Raj Patel",
+    "text_16": "Vedec údajov",
+    "text_17": "India",
+    "text_18": "Super rýchle a spoľahlivé. Používam ho denne na predbežné spracovanie údajov."
+  },
+  "cta": {
+    "text_1": "Pripravený na kódovanie a dekódovanie?",
+    "text_2": "Pridajte sa k tisícom vývojárov, ktorí dôverujú nášmu nástroju pre ich základné potreby64. Rýchle, bezpečné, a vždy zadarmo!",
+    "text_3": "Spustiť konverziu teraz"
+  },
+  "sponsor": {
+    "text_1": "Staňte sa naším výhradným sponzorom!",
+    "text_2": "Získajte svoju spoločnosť predstavoval prominentne na tomto nástroji navždy! Ideálne pre developerské nástroje, hostingové služby alebo akékoľvek podnikanie slúžiace developerskej komunite.",
+    "text_3": "Čo dostanete",
+    "text_4": "Významné umiestnenie loga na každej stránke",
+    "text_5": "Priamy odkaz na vaše webové stránky",
+    "text_6": "Expozícia 1000+ denným užívateľom",
+    "text_7": "Exkluzívne sponzorstvo (iba 1 miesto k dispozícii!)",
+    "text_8": "Globálne publikum vývojárov",
+    "text_9": "Jednorazová platba, celoživotné sponzorstvo",
+    "text_10": "Zaistite svoje miesto teraz"
+  }
+}

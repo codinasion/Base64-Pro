@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Free Base64 Encoder Decoder Online Araç - UTF-8 Destek | Base64 Pro",
+    "description": "Free Base64 encoder ve decoder aracı UTF-8 desteği ile. Base64 ve decode Base64 dizeleri anında çevirin. Gizlilik odaklı, çevrimdışı çalışır, uluslararası karakterleri ve emojileri destekler. Dünya çapında 10.000+ geliştirici tarafından kullanılır.",
+    "keywords": "Base64 encoder, baz64 decoder, baz64 dönüştürücü online, ücretsiz baz64 aracı, utf-8 baz64, baz64 kod decode, online baz64 dönüştürücü, baz64 dize encoder, javascript üssü64, geliştirici araçları üssü64, güvenli baz64 dönüştürücü, uluslararası baz64 encoder, emoji tabanı64 destek, jwt baz64 decoder, api baz64 araç",
+    "codinasion": "Codinasion",
+    "og_title": "Free Base64 Encoder Decoder - Privacy-First Developer Tool",
+    "og_description": "Dünyanın en güvenilir Base64 aracı. Hızlı, güvenli ve küresel olarak erişilebilir. UTF-8, emojileri ve uluslararası karakterleri destekler. Dünya çapında 10.000+ geliştirici tarafından kullanılır. 100% sonsuza kadar özgür."
+  },
+  "navbar": {
+    "text_1": "Base64 Pro Pro",
+    "text_2": "Özellikler Özellikler Özellikler Özellikler",
+    "text_3": "Yorumlar",
+    "text_4": "Başlayın"
+  },
+  "hero": {
+    "text_1": "Base64 Encoder & Decoder",
+    "text_2": "Dünyanın en güvenilir Base64 aracı. Hızlı, güvenli ve küresel olarak erişilebilir.",
+    "text_3": "Dünya çapında 10.000+ geliştirici tarafından kullanılır.",
+    "text_4": "Global UTF-8 Support",
+    "text_5": "% 100 Özel",
+    "text_6": "Anında Sonuçlar"
+  },
+  "component": {
+    "text_1": "Base64 Converter",
+    "text_2": "Encode",
+    "text_3": "Decode",
+    "text_4": "Encode",
+    "text_5": "Base64 Decode",
+    "text_6": "metin buraya girin",
+    "text_7": "Tüm dilleri ve emojileri destekler!",
+    "text_8": "Base64 kodlanmış dizenizi buraya yapıştırın",
+    "text_9": "Base64 Encoded Sonuç",
+    "text_10": "Decoded Text",
+    "text_11": "Copied",
+    "text_12": "Kopya kopya",
+    "text_13": "Sonuç burada görünecek"
+  },
+  "bmc": {
+    "text_1": "Coding Seanslarımızı Yakıt Ediyor!",
+    "text_2": "Bu araç tamamen ücretsizdir ve her zaman olacak! Sizi zaman ve stresten kurtardıysa, bizi bir kahve satın almayı düşünün. Her fincan bu aracı herkes için korumamıza ve geliştirmemize yardımcı olur!",
+    "text_3": "Bizi bir Kahve satın al",
+    "text_4": "Eğlenceli gerçek",
+    "text_5": "Bir ay boyunca çalışan sunucularımızı tutmak için yaklaşık 47 kahve alır!"
+  },
+  "features": {
+    "text_1": "Geliştiriciler Neden Bizi Tercih Ediyor",
+    "text_2": "Modern web standartları ile inşa edilmiş ve küresel erişilebilirlik için tasarlanmış",
+    "text_3": "% 100 Gizlilik",
+    "text_4": "Tüm işlem tarayıcınızda gerçekleşir. Verileriniz asla cihazınızdan ayrılmaz.",
+    "text_5": "Universal Support",
+    "text_6": "UTF-8, emojiler ve uluslararası karakterler için mükemmel bir işlem.",
+    "text_7": "Yıldırım Hızlı",
+    "text_8": "Anında kodlama ve gerçek zamanlı işleme ile uyumlu.",
+    "text_9": "Geliştirici Dostu",
+    "text_10": "Geliştiriciler tarafından tasarlanan temiz arayüz, geliştiriciler için."
+  },
+  "use_cases": {
+    "text_1": "Her Kullanım İçin Mükemmel",
+    "text_2": "Basit veriler karmaşık API entegrasyonuna giriş",
+    "text_3": "API Authentication & JWT Hediyeler",
+    "text_4": "Data URLs & Image Gömülüing",
+    "text_5": "E-postalar ve MIME",
+    "text_6": "URL URL URL URL Güvenli Data Transmission",
+    "text_7": "Dosyalar ve Sırlar",
+    "text_8": "İkili Data Seriization"
+  },
+  "fun_facts": {
+    "text_1": "Sayılar Tarafından",
+    "text_2": "Dünya çapında geliştiriciler tarafından güvenildi",
+    "text_3": "Günlük Kullanıcılar Dünya çapında",
+    "text_4": "Ülkeler Hizmet Edildi",
+    "text_5": "Uptime Reliability",
+    "text_6": "Data Processing Gecikme"
+  },
+  "historical_context": {
+    "text_1": "Base64'ün Hikayesi",
+    "text_2": "Base64 kodlama, temel bir sorunu çözmek için internetin ilk günlerinde geliştirildi: e-posta ve HTTP gibi metin bazlı protokolleri nasıl güvenli bir şekilde iletilir.",
+    "text_3": "1421",
+    "text_4": "Base64 ilk olarak Gizlilik Gelişmiş Mail",
+    "text_5": "Karakterler",
+    "text_6": "64 ASCII karakterlerini kullanın",
+    "text_7": "Evrensel",
+    "text_8": "Şimdi her yerde web API'lerden veri URL'lere kadar kullanılır",
+    "text_9": "Bugün, Base64 modern web geliştirmenin önemli bir parçasıdır, JWT jetonlarından gelen her şeyin doğrusal görüntülere olanak sağlar. Aracımız bu mirası dünya çapında geliştiricilere erişilebilir hale getirerek sürdürüyor!"
+  },
+  "testimonials": {
+    "text_1": "Geliştiriciler tarafından Loved",
+    "text_2": "Dünyanın her köşesinden binlerce memnun geliştiriciye katılın",
+    "text_3": "Sarah Chen",
+    "text_4": "Full Stack Developer",
+    "text_5": "Singapur Singapur Singapur",
+    "text_6": "Bu araç beni saatlerce debugging kurtardı. arayüz çok temiz ve sezgisel!",
+    "text_7": "Ahmed Al-Rashid",
+    "text_8": "DevOps Mühendisi",
+    "text_9": "BAE",
+    "text_10": "API testi için mükemmel. Uluslararası karakterlerle kusursuz bir şekilde çalışır.",
+    "text_11": "María González",
+    "text_12": "Güvenlik Analisti",
+    "text_13": "Meksika Meksika",
+    "text_14": "Gizlilik-ilk yaklaşımı sevmek. Her şey tarayıcıda olur!",
+    "text_15": "Raj Patel",
+    "text_16": "Data Scientist",
+    "text_17": "Hindistan Hindistan",
+    "text_18": "Süper hızlı ve güvenilir. Bunu günlük olarak veri işleme için kullanıyorum."
+  },
+  "cta": {
+    "text_1": "Encode & Decode'a hazır mısınız?",
+    "text_2": "Aracımıza Base64 ihtiyaçları için güvenen binlerce geliştiriciye katılın. Hızlı, güvenli ve her zaman özgür!",
+    "text_3": "Start Converting Now"
+  },
+  "sponsor": {
+    "text_1": "Exclusive Sponsorumuz ol!",
+    "text_2": "Şirketinizin bu aracı sonsuza kadar belirgin bir şekilde ele alın! Geliştirici araçları, barındırma hizmetleri veya geliştirici topluluğuna hizmet eden herhangi bir iş için mükemmel.",
+    "text_3": "What You Get What You Get",
+    "text_4": "Prominent logo yerleştirme her sayfada",
+    "text_5": "Web sitesine doğrudan bağlantı",
+    "text_6": "1000+ günlük kullanıcılarına",
+    "text_7": "Özel sponsorluk (yalnızca mevcut 1 nokta!)",
+    "text_8": "Global geliştirici izleyici",
+    "text_9": "Bir-zaman ödeme, ömür boyu sponsorluk",
+    "text_10": "Your Spot Now"
+  }
+}

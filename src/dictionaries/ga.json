@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Saor in Aisce Base64 Ionchódóra Decoder Online Tool - UTF-8 Tacaíocht Base64 Pro",
+    "description": "Saor in Aisce Base64 ionchódóra agus uirlis decoder le tacaíocht UTF-8. Tiontaigh téacs go Base64 agus decode Base64 teaghráin láithreach. Príobháideacht-dhírithe, oibríonn as líne, tacaíonn carachtair idirnáisiúnta agus emojis. Úsáidte ag 10,000+ forbróirí ar fud an domhain.",
+    "keywords": "ionchódóra base64, decoder base64, base64 tiontaire ar líne, uirlis saor in aisce base64, utf-8 base64, base64 ionchódú decode, ar líne base64 tiontaire, ionchódóra teaghrán base64, javascript base64, uirlisí forbróir base64, slán tiontaire base64, ionchódóra idirnáisiúnta, emoji base64 tacaíocht, jwt base64 decoder, api64 uirlis",
+    "codinasion": "Codlata",
+    "og_title": "Saor in Aisce Base64 Ionchódóra Decoder - Uirlis Príobháideachta-An Chéad Fhorbróir",
+    "og_description": "An domhan uirlis Base64 is iontaofa. Fast, slán, agus ar fud an domhain inrochtana. Tacaíochtaí UTF-8, emojis, agus carachtair idirnáisiúnta. Úsáidte ag 10,000+ forbróirí ar fud an domhain. 100% saor in aisce go deo."
+  },
+  "navbar": {
+    "text_1": "Foinse do bhfianaise faoi stiúir glan",
+    "text_2": "Gnéithe",
+    "text_3": "Léirmheasanna",
+    "text_4": "Faigh Tosaigh"
+  },
+  "hero": {
+    "text_1": "Ionchódóra Bunaithe64",
+    "text_2": "An domhan uirlis Base64 is iontaofa. Fast, slán, agus ar fud an domhain inrochtana.",
+    "text_3": "Úsáidte ag 10,000+ forbróirí ar fud an domhain.",
+    "text_4": "Tacaíocht Domhanda UTF-8",
+    "text_5": "100% Príobháideacha",
+    "text_6": "Torthaí Meandaracha"
+  },
+  "component": {
+    "text_1": "Próifíl na Cuideachta",
+    "text_2": "Ionsáigh",
+    "text_3": "Díchódaigh",
+    "text_4": "Téacs chun ionchódú",
+    "text_5": "Base64 to Decode",
+    "text_6": "Cuir isteach do téacs anseo",
+    "text_7": "Tacaíochtaí gach teanga agus emojis!",
+    "text_8": "Greamaigh do teaghrán ionchódú Base64 anseo",
+    "text_9": "Bonn64 Toradh ionchódaithe",
+    "text_10": "Decoded Téacs",
+    "text_11": "Copied",
+    "text_12": "Cóip Uaireadóirí Cóip",
+    "text_13": "Beidh do thoradh le feiceáil anseo"
+  },
+  "bmc": {
+    "text_1": "Breosla Ár Seisiúin Coding!",
+    "text_2": "Tá an uirlis go hiomlán saor in aisce agus beidh i gcónaí a bheith! Má shábháil sé tú am agus strus, a mheas ag ceannach dúinn caife. Cuidíonn gach cupán dúinn an uirlis seo a choinneáil agus a fheabhsú do gach duine!",
+    "text_3": "Ceannaigh Linn Caife",
+    "text_4": "Fíricí spraoi",
+    "text_5": "Tógann sé faoi caife 47 a choinneáil ar ár freastalaithe ag rith ar feadh míosa!"
+  },
+  "features": {
+    "text_1": "Cén fáth Forbróirí Roghnaigh Linn",
+    "text_2": "Tógtha le caighdeáin gréasáin nua-aimseartha agus deartha le haghaidh inrochtaineacht domhanda",
+    "text_3": "100% Príobháideacht",
+    "text_4": "Tarlaíonn gach próiseáil i do bhrabhsálaí. Ní fhágann do chuid sonraí do ghléas riamh.",
+    "text_5": "Tacaíocht uilíoch",
+    "text_6": "Láimhseáil foirfe UTF-8, emojis, agus carachtair idirnáisiúnta.",
+    "text_7": "Lightning Fast",
+    "text_8": "ionchódú Meandaracha agus díchódaithe le próiseáil fíor-ama.",
+    "text_9": "Forbairt Friendly",
+    "text_10": "Comhéadan Glan deartha ag forbróirí, d'fhorbróirí."
+  },
+  "use_cases": {
+    "text_1": "Foirfe do gach Cás Úsáid",
+    "text_2": "Ó ionchódú sonraí simplí chun comhtháthú API casta",
+    "text_3": "Fíordheimhniú API agus JWT Tokens",
+    "text_4": "Plean Gníomhaíochta don Oideachas",
+    "text_5": "Naisc go dtí suíomhanna eile",
+    "text_6": "URL Amharc ar gach eolas",
+    "text_7": "Comhaid Cumraíochta agus Rúin",
+    "text_8": "Dénártha Sonraí Serialization"
+  },
+  "fun_facts": {
+    "text_1": "De réir na Uimhreacha",
+    "text_2": "Iontaofa ag forbróirí ar fud na cruinne",
+    "text_3": "Úsáideoirí Laethúla ar fud an domhain",
+    "text_4": "Tíortha a bhfuil",
+    "text_5": "Inrochtaineacht",
+    "text_6": "Delay Próiseála Sonraí"
+  },
+  "historical_context": {
+    "text_1": "Scéal na Bonn64",
+    "text_2": "Forbraíodh ionchódú Base64 sna laethanta tosaigh ar an idirlíon chun fadhb bhunúsach a réiteach: conas sonraí dénártha a tharchur go sábháilte thar prótacail téacs-bhunaithe cosúil le ríomhphost agus HTTP.",
+    "text_3": "RFC 1421",
+    "text_4": "Bhí Bunaithe64 chaighdeánaithe den chéad uair le haghaidh Príobháideacht feabhsaithe Mail",
+    "text_5": "Carachtair",
+    "text_6": "Úsáidí 64 carachtair ASCII",
+    "text_7": "Uilíoch",
+    "text_8": "Anois a úsáidtear i ngach áit ó APIs gréasáin le URLanna sonraí",
+    "text_9": "Sa lá atá inniu ann, is cuid riachtanach d'fhorbairt gréasáin nua-aimseartha é Base64, rud a chuireann ar chumas chomharthaí JWT íomhánna inlíne. Leanann ár n-uirlis an oidhreacht seo trí Base64 a dhéanamh inrochtana d'fhorbróirí ar fud an domhain!"
+  },
+  "testimonials": {
+    "text_1": "Grá ag Forbróirí ar fud an domhain",
+    "text_2": "Member na mílte forbróirí sásta ó gach cearn den domhan",
+    "text_3": "riachtanais uisce: measartha",
+    "text_4": "Iomlán Stack Forbróir",
+    "text_5": "tréimhse saoil: ilbhliantúil",
+    "text_6": "Shábháil an uirlis dom uair an chloig debugging. Tá an comhéadan chomh glan agus iomasach!",
+    "text_7": "Ahmed Al-Rashid",
+    "text_8": "Innealtóir DevOps",
+    "text_9": "UAE",
+    "text_10": "Foirfe do thástáil API. Oibríonn flawlessly le carachtair idirnáisiúnta.",
+    "text_11": "Féachaint ar Fholúntais",
+    "text_12": "Slándáil Analyst",
+    "text_13": "taiseachas aeir: fliuch",
+    "text_14": "Grá an príobháideachais-first approach. Gach rud a tharlaíonn sa bhrabhsálaí!",
+    "text_15": "Raj Patel",
+    "text_16": "Sonraí Eolaí",
+    "text_17": "An India",
+    "text_18": "Super tapa agus iontaofa. Úsáid mé é go laethúil le haghaidh réamhphróiseála sonraí."
+  },
+  "cta": {
+    "text_1": "Réidh chun Ionchódú agus Díchód?",
+    "text_2": "Member na mílte forbróirí a muinín ár n-uirlis dá riachtanais Base64. Fast, slán, agus i gcónaí saor in aisce!",
+    "text_3": "Tosaigh Athrú Anois"
+  },
+  "sponsor": {
+    "text_1": "Bí ar ár Urraitheoir eisiach!",
+    "text_2": "Faigh do chuideachta le feiceáil go feiceálach ar an uirlis go deo! Foirfe le haghaidh uirlisí forbróir, seirbhísí óstáil, nó aon ghnó ag freastal ar an bpobal forbróir.",
+    "text_3": "Cad a fhaigheann tú",
+    "text_4": "Socrúchán lógó cuí ar gach leathanach",
+    "text_5": "Nasc díreach chuig do láithreán gréasáin",
+    "text_6": "Nochtadh le 1000 + úsáideoirí laethúla",
+    "text_7": "urraíocht eisiach (ach 1 láthair ar fáil!)",
+    "text_8": "Domhanda lucht féachana forbróir",
+    "text_9": "Íocaíocht aon-uaire, urraíocht saoil",
+    "text_10": "Slán Do Pota Óir Anois"
+  }
+}

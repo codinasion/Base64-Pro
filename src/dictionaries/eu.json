@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Free Base64 kodetzailea Decoder Online Tool - UTF-8 euskarria | Base64 Pro",
+    "description": "Free Base64 kodetzailea eta deskodetzailea UTF-8 euskarriarekin. Bihurtu testua Base64ra eta deskodetu Base64 kateak berehala. Pribatutasunari begira, lineaz kanpo lan egiten du, nazioarteko karaktereak eta emojiak onartzen ditu. Mundu osoko 10.000 garatzailek erabiltzen dute.",
+    "keywords": "base64 kodetzailea, base64 deskodetzailea, base64 bihurtzailea linean, base64 tresna librea, utf-8 base64 kodetzailea, base64 kodetzailea, base64 kate-kodetzailea, javascript base64, garatzaile-tresnak base64, base64 bihurtzailea, nazioarteko base64 kodetzailea, emoji oinarri64 euskarria, jwt base64 deskodetzailea, api base64 tresna",
+    "codinasion": "Codinasion",
+    "og_title": "Free Base64 kodetzailea Deskodetzailea - Privacy-First Developer Tool",
+    "og_description": "Munduko Base64 tresna fidagarriena. Bizkorra, segurua eta globala. UTF-8, emoji eta nazioarteko karaktereak onartzen ditu. Mundu osoko 10.000 garatzailek erabiltzen dute. 100% libre betiko."
+  },
+  "navbar": {
+    "text_1": "Base64 Pro",
+    "text_2": "Ezaugarriak",
+    "text_3": "Kritikak",
+    "text_4": "Hasi"
+  },
+  "hero": {
+    "text_1": "Base64 kodetzailea eta deskodetzailea",
+    "text_2": "Munduko Base64 tresna fidagarriena. Bizkorra, segurua eta globala.",
+    "text_3": "Mundu osoko 10.000 garatzailek erabiltzen dute.",
+    "text_4": "UTF-8 euskarria",
+    "text_5": "% 100 pribatua",
+    "text_6": "Berehalako emaitzak"
+  },
+  "component": {
+    "text_1": "Base64 Converter",
+    "text_2": "Encode",
+    "text_3": "Deskodetu",
+    "text_4": "Kodetzeko testua",
+    "text_5": "Base64 - Deskodetu",
+    "text_6": "Sartu zure testua hemen",
+    "text_7": "Hizkuntza eta emoji guztiak onartzen ditu!",
+    "text_8": "Itsatsi Base64 kodetutako katea hemen",
+    "text_9": "Base64 Kodetutako emaitza",
+    "text_10": "Testu deskodetua",
+    "text_11": "Kopiatuta",
+    "text_12": "Kopiatu",
+    "text_13": "Zure emaitza hemen agertuko da"
+  },
+  "bmc": {
+    "text_1": "Erregaia biltzeko saioak!",
+    "text_2": "Tresna hau guztiz librea da eta beti izango da! Denbora eta estresa aurreztuz gero, kafe bat erostea pentsatu. Kopa bakoitzak tresna hau mantentzen eta hobetzen laguntzen digu!",
+    "text_3": "Erosi kafe bat",
+    "text_4": "Gertaera dibertigarria",
+    "text_5": "47 kafe behar dira gure zerbitzariak hilabete batez exekutatzeko!"
+  },
+  "features": {
+    "text_1": "Garatzaileek zergatik aukeratzen gaituzten",
+    "text_2": "Web estandar modernoekin eraikia eta erabilerraztasun globalerako diseinatua",
+    "text_3": "100% Pribatutasuna",
+    "text_4": "Prozesu guztiak zure arakatzailean gertatzen dira. Zure datuak ez dira inoiz gailutik irteten.",
+    "text_5": "Laguntza unibertsala",
+    "text_6": "UTF-8, emoji eta nazioarteko karaktereen manipulazio bikaina.",
+    "text_7": "Tximista azkarra",
+    "text_8": "Berehalako kodeketa eta deskodetzea denbora errealeko prozesamenduarekin.",
+    "text_9": "Developer Friendly",
+    "text_10": "Garatzaileek diseinatutako interfaze garbia, garatzaileentzat."
+  },
+  "use_cases": {
+    "text_1": "Erabilera kasu bakoitzerako ezin hobea",
+    "text_2": "Datuen kodeketa sinpletik API integrazio konplexuetaraino",
+    "text_3": "API autentifikazioa eta JWT Tokens",
+    "text_4": "Datuen URLak eta irudia betetzea",
+    "text_5": "Posta elektronikoko eranskinak eta MIME",
+    "text_6": "URLa Datu seguruen transmisioa",
+    "text_7": "Konfigurazio-fitxategiak eta sekretuak",
+    "text_8": "Datu bitarrak seriean"
+  },
+  "fun_facts": {
+    "text_1": "Zenbakien arabera",
+    "text_2": "Mundu osoko garatzaileek sinetsita",
+    "text_3": "Eguneroko erabiltzaileak munduan",
+    "text_4": "Herrialdeak zerbitzatuak",
+    "text_5": "Fidagarritasuna",
+    "text_6": "Datuen tratamenduaren atzerapena"
+  },
+  "historical_context": {
+    "text_1": "Base64ko historia",
+    "text_2": "Oinarrizko64 kodeketa Interneteko lehen egunetan garatu zen oinarrizko arazo bat konpontzeko: nola segurtasunez bidali datu bitarrak testuetan oinarritutako protokoloetan, hala nola posta elektronikoa eta HTTP.",
+    "text_3": "RFC 1421",
+    "text_4": "Base64 lehen aldiz pertsonalizatu zen Pribatutasuna Hobetutako Postarako.",
+    "text_5": "Karaktereak",
+    "text_6": "64 ASCII karaktere erabiltzen ditu",
+    "text_7": "Unibertsala",
+    "text_8": "Orain web APIetatik datu URLetara erabiltzen da",
+    "text_9": "Gaur egun, Base64 funtsezko atal bat da web-garapen modernoan, eta JWTren tokenetatik irudiak barneratzeko aukera ematen du. Gure tresnak ondare hori jarraitzen du, Base64 mundu osoko garatzaileentzat eskuragarri bihurtuz!"
+  },
+  "testimonials": {
+    "text_1": "Mundu osoko garatzaileek maite dute",
+    "text_2": "Bat egin munduko txoko guztietako milaka garatzaile asebeteekin",
+    "text_3": "Sarah Chen",
+    "text_4": "Pila osoko garatzailea",
+    "text_5": "Singapur",
+    "text_6": "Tresna honek arazketa orduak salbatu zizkidan. Interfazea oso garbia eta intuitiboa da!",
+    "text_7": "Ahmed Al-Rashid",
+    "text_8": "DevOps ingeniaria",
+    "text_9": "UAE",
+    "text_10": "API probak egiteko ezin hobea. Nazioarteko karaktereekin ezin hobeto funtzionatzen du.",
+    "text_11": "Maria González",
+    "text_12": "Segurtasuneko analizatzailea",
+    "text_13": "Mexiko",
+    "text_14": "Maite dut lehen hurbilketa. Dena gertatzen da arakatzailean!",
+    "text_15": "Raj Patel",
+    "text_16": "Datuen zientzialaria",
+    "text_17": "India",
+    "text_18": "Oso azkarra eta fidagarria. Egunero erabiltzen dut datuen aurretratamendurako."
+  },
+  "cta": {
+    "text_1": "Deskodetzeko prest?",
+    "text_2": "Sartu gure tresnaz fidatzen diren milaka garatzaile Base64ren beharretara. Azkar, seguru eta beti aske!",
+    "text_3": "Hasi orain bihurtzen"
+  },
+  "sponsor": {
+    "text_1": "Bihurtu gure babesle esklusiboa!",
+    "text_2": "Jarri zure konpainia betiko tresna honetan! Tresna garatzaileentzat, ostatatzeko zerbitzuentzat edo garatzaileen komunitatearentzako edozein negoziorentzat.",
+    "text_3": "Jasotzen duzuna",
+    "text_4": "Logotipo bikaina orrialde guztietan",
+    "text_5": "Esteka zuzena zure webgunera",
+    "text_6": "1000+ eguneroko erabiltzaileentzako esposizioa",
+    "text_7": "Babesle esklusiboa (leku bakarra dago eskuragarri!)",
+    "text_8": "Garatzaileen audientzia orokorra",
+    "text_9": "Behin ordainketa, bizitza osoko babeslea",
+    "text_10": "Babestu zure lekua orain"
+  }
+}

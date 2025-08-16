@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Mjeti Free Base64D Decoder Online - UTF-8 Mbështetësi Base64 Pro",
+    "description": "Mjeti Free Base64 dhe dekoduesi me mbështetje UTF-8. Konverto tekstin në Base64 dhe dekod Base64 në çast. Privacy-fokused, punon jashtë linje, mbështet karakteret ndërkombëtare dhe emojis. Përdorur nga 10,000 + zhvillues në mbarë botën.",
+    "keywords": "Baza 64, dekoduesi i bazës së dekodimit, konvertimi i bazës në internet, mjeti falas i bazës 64, utf-8 bazë 64, dekoduesi bazë 64, konvertues onlajn-64, kodifikuesi i stringës bazë 64, mjeti i zhvilluesve bazë 64, konvertues i bazës së bazës ndërkombëtare 64, mbështetja e Emoi bazë64, dekoduesi jwt64, një mjet bazë 64",
+    "codinasion": "Codinazion",
+    "og_title": "Free Base64 3: Dekoduesi - Instrumenti i parë i zhvilluesve i Privacy-First",
+    "og_description": "Mjeti më i besuar në botë, Baza64. E shpejtë, e sigurt dhe e arritshme në mbarë botën. Mbështet UTF-8, emojis dhe karaktere ndërkombëtare. Përdorur nga 10,000 + zhvillues në mbarë botën. 100% i lirë përgjithmonë."
+  },
+  "navbar": {
+    "text_1": "Base64 Pro",
+    "text_2": "Veçoritë",
+    "text_3": "Rishikimet",
+    "text_4": "Fillo"
+  },
+  "hero": {
+    "text_1": "Base64 Discover & Decover",
+    "text_2": "Mjeti më i besuar në botë, Baza64. E shpejtë, e sigurt dhe e arritshme në mbarë botën.",
+    "text_3": "Përdorur nga 10,000 + zhvillues në mbarë botën.",
+    "text_4": "Mbështetje globale UTF-8",
+    "text_5": "100% private",
+    "text_6": "Rezultatet e çastit"
+  },
+  "component": {
+    "text_1": "Konvertues i Base64",
+    "text_2": "Kodifikimi",
+    "text_3": "Dekod",
+    "text_4": "Teksti nga",
+    "text_5": "Baza64 për t'u deshifruar",
+    "text_6": "Shkruaj këtu tekstin tuaj",
+    "text_7": "Mbështet të gjitha gjuhët dhe emojis!",
+    "text_8": "Ngjiteni këtu lidhjen tuaj të koduar.",
+    "text_9": "Rezultati i kodifikuar i Base64",
+    "text_10": "Tekst i dekoduar",
+    "text_11": "Kopjuar",
+    "text_12": "Kopjo",
+    "text_13": "Rezultati juaj do të shfaqet këtu"
+  },
+  "bmc": {
+    "text_1": "Ushqeni sesionet e çiftimit!",
+    "text_2": "Kjo vegël është krejtësisht e lirë dhe gjithmonë do të jetë! Nëse të kurseu kohë dhe stres, mendo të blesh një kafe. Çdo kupë na ndihmon ta ruajmë dhe ta përmirësojmë këtë mjet për të gjithë.",
+    "text_3": "Të blejmë një kafe",
+    "text_4": "Fakt qesharak",
+    "text_5": "Duhen rreth 47 kafe për t'i mbajtur serverat tanë duke vrapuar për një muaj!"
+  },
+  "features": {
+    "text_1": "Pse mendimtarët na zgjedhin?",
+    "text_2": "Ndërtuar me standardet moderne të internetit dhe projektuar për mundësi globale",
+    "text_3": "100% privacy",
+    "text_4": "Të gjitha procesimet ndodhin në shfletuesin tuaj. Të dhënat e tua nuk largohen kurrë nga pajisja.",
+    "text_5": "Mbështetje Universale",
+    "text_6": "Trajtimi i përsosur i UTF-8, emojis dhe personazheve ndërkombëtare.",
+    "text_7": "Vetëtima shpejt",
+    "text_8": "dhe me.",
+    "text_9": "Zhvillues miqësor",
+    "text_10": "Ndërfaqe e pastër e projektuar nga zhvillues, për zhvillues."
+  },
+  "use_cases": {
+    "text_1": "E përsosur për çdo rast",
+    "text_2": "Nga kodifikimi i thjeshtë i të dhënave tek integrimet komplekse API",
+    "text_3": "Identifikimi & JWT Tokens",
+    "text_4": "Të dhëna URLs & Imazh Empections",
+    "text_5": "Të bashkangjiturit email",
+    "text_6": "URL Transmetim i sigurt i të dhënave",
+    "text_7": "File e konfigurimit",
+    "text_8": "Serializimi i të Dhënave Binar"
+  },
+  "fun_facts": {
+    "text_1": "Sipas numrave",
+    "text_2": "Të besuar nga zhvillues anembanë globit",
+    "text_3": "Përdorues të përditshëm në mbarë botën",
+    "text_4": "Në vendet ku shërbejnë",
+    "text_5": "Relibiliteti i kohës së tepërt",
+    "text_6": "Vonesa e proçesimit të të dhënave"
+  },
+  "historical_context": {
+    "text_1": "Historia e bazës64",
+    "text_2": "Në ditët e para të internetit u zhvillua kodifikimi bazë64 për të zgjidhur një problem themelor: si të transmetohen në mënyrë të sigurt të dhënat binare mbi protokollet me bazë teksti si email dhe HTTP.",
+    "text_3": "RFC 1421",
+    "text_4": "Baza64 u standartizua për herë të parë për Privacy Enhaned Mail",
+    "text_5": "Simboli",
+    "text_6": "Përdor 64 shkronja ASCII",
+    "text_7": "Universale",
+    "text_8": "Tani përdoret kudo nga web API tek URLtë e të dhënave",
+    "text_9": "Sot, Base64 është pjesë thelbësore e zhvillimit modern të internetit, duke bërë të mundur çdo gjë që nga JWT deri te pamjet inlineare. Mjeti ynë e vazhdon këtë trashëgimi duke e bërë Base64 të arritshëm për zhvilluesit në mbarë botën!"
+  },
+  "testimonials": {
+    "text_1": "Të dashuruar nga zhvilluesit në mbarë botën",
+    "text_2": "Bashkohu me mijëra zhvillues të kënaqur nga çdo cep i globit",
+    "text_3": "Sarah Chen",
+    "text_4": "Zhvillimi i plotë i stack",
+    "text_5": "Singapor",
+    "text_6": "Kjo mjet më ka ruajtur orë të tëra të debug. Ndërfaqeja është kaq e pastër dhe intuitive!",
+    "text_7": "Ahmed Al-Rashid",
+    "text_8": "Inxhinieri Devrops",
+    "text_9": "EUAE",
+    "text_10": "E përkryer për testimin. Punon në mënyrë të përsosur me personazhet ndërkombëtare.",
+    "text_11": "Maria Gonzalezi",
+    "text_12": "Analist i sigurisë",
+    "text_13": "Meksikë",
+    "text_14": "Duaje intimitetin e parë. Çdo gjë ndodh në shfletues!",
+    "text_15": "Raj Patel",
+    "text_16": "Të dhëna Scientist",
+    "text_17": "India",
+    "text_18": "Shumë i shpejtë dhe i besueshëm. E përdor çdo ditë për procesimin e të dhënave."
+  },
+  "cta": {
+    "text_1": "Gati për kodimin dhe dekodimin?",
+    "text_2": "Bashkohuni me mijëra zhvillues që i besojnë mjetit tonë për nevojat e tyre në Base64. Shpejt, siguruar, dhe gjithmonë të lirë!",
+    "text_3": "Fillo përfundimin tani"
+  },
+  "sponsor": {
+    "text_1": "Bëhuni Sponzori ynë i jashtëzakonshëm!",
+    "text_2": "Mbajeni kompaninë tuaj të paraqitur dukshëm në këtë mjet përgjithmonë! E përsosur për të zhvilluar mjetet, për të mbajtur shërbime ose për çdo biznes që i shërben komunitetit të ndërtimit.",
+    "text_3": "Çfarë fiton?",
+    "text_4": "Vendosje e shquar e logos në çdo faqe",
+    "text_5": "Lidhje direkte me faqen tuaj të internetit",
+    "text_6": "Ekspozimi në 1000+ përdorues të përditshëm",
+    "text_7": "Sponzorizimi ekskluziv (vetëm një pikë në dispozicion!)",
+    "text_8": "Audienca globale e zhvilluesve",
+    "text_9": "Pagesa me një herë, sponsorizimi i jetës",
+    "text_10": "Sigurohuni që tani"
+  }
+}
