@@ -103,7 +103,7 @@ export default async function RootLayout({
       </body>
       <GoogleAnalytics gaId="G-S88JXFVVB4" />
       {/* eslint-disable-next-line @next/next/no-sync-scripts */}
-      <script
+      {/* <script
         data-name="BMC-Widget"
         data-cfasync="false"
         src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
@@ -114,7 +114,7 @@ export default async function RootLayout({
         data-position="Right"
         data-x_margin="18"
         data-y_margin="18"
-      ></script>
+      ></script> */}
     </html>
   );
 }

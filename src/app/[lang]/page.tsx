@@ -2,14 +2,14 @@ import { getDictionary, langListData, langType } from "@/dictionaries";
 import Navbar from "./navbar";
 import Hero from "./hero";
 import Base64EncoderDecoderComponent from "./component";
-import BuyMeACoffee from "./bmc";
+// import BuyMeACoffee from "./bmc";
 import Features from "./features";
 import UseCases from "./use-cases";
 import FunFacts from "./fun-facts";
 import HistoricalContext from "./historical-context";
 import Testimonials from "./testimonials";
 import CTA from "./cta";
-import Sponsor from "./sponsor";
+// import Sponsor from "./sponsor";
 import Footer from "./footer";
 import Comment from "./comment";
 
@@ -33,7 +33,7 @@ export default async function Page({ params }: { params: Promise<langType> }) {
 
       <Comment />
 
-      <BuyMeACoffee dict={dict} />
+      {/* <BuyMeACoffee dict={dict} /> */}
 
       <Features dict={dict} />
 
@@ -47,7 +47,7 @@ export default async function Page({ params }: { params: Promise<langType> }) {
 
       <CTA dict={dict} />
 
-      <Sponsor dict={dict} />
+      {/* <Sponsor dict={dict} /> */}
 
       <Footer />
     </div>
